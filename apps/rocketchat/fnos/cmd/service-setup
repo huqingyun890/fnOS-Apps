@@ -1,0 +1,7 @@
+#!/bin/bash
+# Rocket.Chat Docker app — directory setup
+
+service_postinst() {
+    # Create default directories
+    mkdir -p "${TRIM_PKGVAR}/uploads" "${TRIM_PKGVAR}/mongodb" 2>/dev/null || true
+}
