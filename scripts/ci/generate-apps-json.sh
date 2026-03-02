@@ -35,6 +35,7 @@ for app_dir in "${REPO_ROOT}"/scripts/apps/*/; do
   DEFAULT_PORT=""
   HOMEPAGE_URL=""
   CATEGORY=""
+  POST_INSTALL_NOTE=""
   source "${app_dir}/meta.env"
 
   manifest="${REPO_ROOT}/apps/${slug}/fnos/manifest"
@@ -99,6 +100,7 @@ for app_dir in "${REPO_ROOT}"/scripts/apps/*/; do
     --argjson download_count "$download_count" \
     --arg app_type "$app_type" \
     --arg category "$CATEGORY" \
+    --arg post_install_note "$POST_INSTALL_NOTE" \
     '{
       slug: $slug,
       appname: $appname,
@@ -116,7 +118,7 @@ for app_dir in "${REPO_ROOT}"/scripts/apps/*/; do
       download_count: $download_count,
       app_type: $app_type,
       category: $category
-    }')
+    } + (if $post_install_note != "" then {post_install_note: $post_install_note} else {} end)')
 
   APPS_JSON=$(echo "$APPS_JSON" | jq --argjson app "$app_obj" '. + [$app]')
   echo "  ✓ ${slug} → ${release_tag}"
