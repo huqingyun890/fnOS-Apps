@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-03-02T16:28:35Z",
+  "generated_at": "2026-03-03T08:05:52Z",
   "source": {
     "name": "conversun/fnos-apps",
     "url": "https://github.com/conversun/fnos-apps"
@@ -44,7 +44,7 @@
         "arm"
       ],
       "updated_at": "2026-03-01T08:06:51Z",
-      "download_count": 146,
+      "download_count": 149,
       "app_type": "docker",
       "category": "content"
     },
@@ -86,7 +86,7 @@
         "arm"
       ],
       "updated_at": "2026-03-01T08:12:34Z",
-      "download_count": 41,
+      "download_count": 43,
       "app_type": "docker",
       "category": "content"
     },
@@ -128,7 +128,7 @@
         "arm"
       ],
       "updated_at": "2026-02-28T06:24:09Z",
-      "download_count": 102,
+      "download_count": 107,
       "app_type": "docker",
       "category": "browser"
     },
@@ -170,7 +170,7 @@
         "arm"
       ],
       "updated_at": "2026-02-14T14:38:36Z",
-      "download_count": 526,
+      "download_count": 538,
       "app_type": "native",
       "category": "media"
     },
@@ -191,7 +191,7 @@
         "arm"
       ],
       "updated_at": "2026-02-28T06:24:12Z",
-      "download_count": 95,
+      "download_count": 107,
       "app_type": "docker",
       "category": "browser"
     },
@@ -212,7 +212,7 @@
         "arm"
       ],
       "updated_at": "2026-03-02T16:14:02Z",
-      "download_count": 1070,
+      "download_count": 1121,
       "app_type": "native",
       "category": "store"
     },
@@ -233,7 +233,7 @@
         "arm"
       ],
       "updated_at": "2026-02-14T14:37:46Z",
-      "download_count": 89,
+      "download_count": 90,
       "app_type": "native",
       "category": "download"
     },
@@ -275,7 +275,7 @@
         "arm"
       ],
       "updated_at": "2026-02-28T06:24:08Z",
-      "download_count": 39,
+      "download_count": 45,
       "app_type": "docker",
       "category": "media"
     },
@@ -296,7 +296,7 @@
         "arm"
       ],
       "updated_at": "2026-03-02T15:47:19Z",
-      "download_count": 188,
+      "download_count": 195,
       "app_type": "native",
       "category": "media"
     },
@@ -317,7 +317,7 @@
         "arm"
       ],
       "updated_at": "2026-02-28T06:24:04Z",
-      "download_count": 77,
+      "download_count": 85,
       "app_type": "docker",
       "category": "media"
     },
@@ -359,7 +359,7 @@
         "arm"
       ],
       "updated_at": "2026-02-28T06:24:13Z",
-      "download_count": 30,
+      "download_count": 32,
       "app_type": "docker",
       "category": "media"
     },
@@ -401,7 +401,7 @@
         "arm"
       ],
       "updated_at": "2026-03-02T16:28:23Z",
-      "download_count": 166,
+      "download_count": 181,
       "app_type": "docker",
       "category": "content",
       "post_install_note": "请在 Web UI 中设置媒体库和下载目录，确保与下载工具（如 qBittorrent）使用的路径一致。"
@@ -423,9 +423,30 @@
         "arm"
       ],
       "updated_at": "2026-02-28T06:24:11Z",
-      "download_count": 47,
+      "download_count": 48,
       "app_type": "native",
       "category": "media"
+    },
+    {
+      "slug": "nextcloud",
+      "appname": "nextcloud",
+      "file_prefix": "nextcloud",
+      "display_name": "Nextcloud",
+      "description": "开源私有云存储平台,支持文件同步、在线文档协作和日历联系人管理。",
+      "version": "33.0.0",
+      "fpk_version": "33.0.0",
+      "release_tag": "nextcloud/v33.0.0",
+      "service_port": 8082,
+      "homepage_url": "https://nextcloud.com",
+      "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/nextcloud/fnos/ICON_256.PNG",
+      "platforms": [
+        "x86",
+        "arm"
+      ],
+      "updated_at": "2026-03-03T08:05:40Z",
+      "download_count": 0,
+      "app_type": "docker",
+      "category": "content"
     },
     {
       "slug": "nginx",
@@ -444,7 +465,7 @@
         "arm"
       ],
       "updated_at": "2026-02-14T14:37:46Z",
-      "download_count": 39,
+      "download_count": 42,
       "app_type": "native",
       "category": "system"
     },
@@ -465,7 +486,7 @@
         "arm"
       ],
       "updated_at": "2026-02-28T06:23:50Z",
-      "download_count": 63,
+      "download_count": 64,
       "app_type": "native",
       "category": "system"
     },
@@ -486,7 +507,7 @@
         "arm"
       ],
       "updated_at": "2026-02-28T06:24:21Z",
-      "download_count": 43,
+      "download_count": 44,
       "app_type": "native",
       "category": "content"
     },
@@ -507,9 +528,30 @@
         "arm"
       ],
       "updated_at": "2026-02-14T14:37:53Z",
-      "download_count": 250,
+      "download_count": 255,
       "app_type": "native",
       "category": "media"
+    },
+    {
+      "slug": "puter",
+      "appname": "puter",
+      "file_prefix": "puter",
+      "display_name": "Puter",
+      "description": "开源云桌面环境,在浏览器中提供完整的桌面体验,支持文件管理和应用生态。",
+      "version": "2.5.1",
+      "fpk_version": "2.5.1",
+      "release_tag": "puter/v2.5.1",
+      "service_port": 4100,
+      "homepage_url": "https://puter.com",
+      "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/puter/fnos/ICON_256.PNG",
+      "platforms": [
+        "x86",
+        "arm"
+      ],
+      "updated_at": "2026-03-03T08:05:44Z",
+      "download_count": 0,
+      "app_type": "docker",
+      "category": "system"
     },
     {
       "slug": "qbittorrent",
@@ -528,9 +570,30 @@
         "arm"
       ],
       "updated_at": "2026-02-22T10:35:59Z",
-      "download_count": 324,
+      "download_count": 332,
       "app_type": "native",
       "category": "download"
+    },
+    {
+      "slug": "rocketchat",
+      "appname": "rocketchat",
+      "file_prefix": "rocketchat",
+      "display_name": "Rocket.Chat",
+      "description": "开源团队协作通讯平台,支持即时消息、音视频通话和文件共享。",
+      "version": "8.2.0",
+      "fpk_version": "8.2.0",
+      "release_tag": "rocketchat/v8.2.0",
+      "service_port": 3003,
+      "homepage_url": "https://rocket.chat",
+      "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/rocketchat/fnos/ICON_256.PNG",
+      "platforms": [
+        "x86",
+        "arm"
+      ],
+      "updated_at": "2026-03-03T08:05:40Z",
+      "download_count": 0,
+      "app_type": "docker",
+      "category": "content"
     },
     {
       "slug": "sun-panel",
@@ -570,7 +633,7 @@
         "arm"
       ],
       "updated_at": "2026-02-28T06:24:22Z",
-      "download_count": 28,
+      "download_count": 31,
       "app_type": "native",
       "category": "download"
     },
@@ -612,7 +675,7 @@
         "arm"
       ],
       "updated_at": "2026-03-02T08:18:25Z",
-      "download_count": 45,
+      "download_count": 49,
       "app_type": "docker",
       "category": "download"
     },
@@ -633,7 +696,7 @@
         "arm"
       ],
       "updated_at": "2026-02-28T06:24:17Z",
-      "download_count": 40,
+      "download_count": 42,
       "app_type": "docker",
       "category": "system"
     },
