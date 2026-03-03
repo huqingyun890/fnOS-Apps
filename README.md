@@ -14,98 +14,98 @@
 
 ### 📦 应用中心
 
-| | App | 端口 | 说明 | 下载 |
-|:---:|---|---:|---|:---:|
-| <img src="apps/fnos-apps-store/fnos/ICON.PNG" width="28"> | [**fnOS Apps**](apps/fnos-apps-store/) | `8011` | 第三方应用中心，一键安装与更新 | [Release][r-store] |
+| | App | 端口 | 说明 | 来源 | 下载 |
+|:---:|---|---:|---|:---:|:---:|
+| <img src="apps/fnos-apps-store/fnos/ICON.PNG" width="28"> | [**fnOS Apps**](apps/fnos-apps-store/) | `8011` | 第三方应用中心，一键安装与更新 | [GitHub](https://github.com/conversun/fnos-store) | [Release][r-store] |
 
 ### 🎬 媒体服务
 
-| | App | 端口 | 说明 | 下载 |
-|:---:|---|---:|---|:---:|
-| <img src="apps/plex/fnos/ICON.PNG" width="28"> | [**Plex**](apps/plex/) | `32400` | 媒体服务器，支持硬件转码 | [Release][r-plex] |
-| <img src="apps/emby/fnos/ICON.PNG" width="28"> | [**Emby**](apps/emby/) | `8096` | 媒体管理与流式传输 | [Release][r-emby] |
-| <img src="apps/jellyfin/fnos/ICON.PNG" width="28"> | [**Jellyfin**](apps/jellyfin/) | `8097` | 开源媒体系统，内置 FFmpeg | [Release][r-jellyfin] |
-| <img src="apps/navidrome/fnos/ICON.PNG" width="28"> | [**Navidrome**](apps/navidrome/) | `4533` | 音乐流媒体服务器 | [Release][r-navidrome] |
-| <img src="apps/koel/fnos/ICON.PNG" width="28"> | [**Koel**](apps/koel/) | `8060` | 个人音乐流媒体，默认账号 `admin@koel.dev/KoelIsCool` | [Release][r-koel] |
-| <img src="apps/immich/fnos/ICON.PNG" width="28"> | [**Immich**](apps/immich/) | `2283` | 自托管照片/视频备份，支持人脸识别 | [Release][r-immich] |
-| <img src="apps/kavita/fnos/ICON.PNG" width="28"> | [**Kavita**](apps/kavita/) | `5000` | 漫画/电子书阅读 | [Release][r-kavita] |
-| <img src="apps/tinymediamanager/fnos/ICON.PNG" width="28"> | [**tinyMediaManager**](apps/tinymediamanager/) | `5800` | 影视元数据管理 | [Release][r-tmm] |
-| <img src="apps/photoprism/fnos/ICON.PNG" width="28"> | [**PhotoPrism**](apps/photoprism/) | `2342` | AI 驱动的照片管理 | [Release][r-photoprism] |
-| <img src="apps/jellyseerr/fnos/ICON.PNG" width="28"> | [**Jellyseerr**](apps/jellyseerr/) | `5055` | Jellyfin/Plex 媒体请求管理 | [Release][r-jellyseerr] |
+| | App | 端口 | 说明 | 来源 | 下载 |
+|:---:|---|---:|---|:---:|:---:|
+| <img src="apps/plex/fnos/ICON.PNG" width="28"> | [**Plex**](apps/plex/) | `32400` | 媒体服务器，支持硬件转码 | [官网](https://www.plex.tv) | [Release][r-plex] |
+| <img src="apps/emby/fnos/ICON.PNG" width="28"> | [**Emby**](apps/emby/) | `8096` | 媒体管理与流式传输 | [官网](https://emby.media) | [Release][r-emby] |
+| <img src="apps/jellyfin/fnos/ICON.PNG" width="28"> | [**Jellyfin**](apps/jellyfin/) | `8097` | 开源媒体系统，内置 FFmpeg | [官网](https://jellyfin.org) | [Release][r-jellyfin] |
+| <img src="apps/navidrome/fnos/ICON.PNG" width="28"> | [**Navidrome**](apps/navidrome/) | `4533` | 音乐流媒体服务器 | [官网](https://www.navidrome.org) | [Release][r-navidrome] |
+| <img src="apps/koel/fnos/ICON.PNG" width="28"> | [**Koel**](apps/koel/) | `8060` | 个人音乐流媒体，默认账号 `admin@koel.dev/KoelIsCool` | [GitHub](https://github.com/koel/koel) | [Release][r-koel] |
+| <img src="apps/immich/fnos/ICON.PNG" width="28"> | [**Immich**](apps/immich/) | `2283` | 自托管照片/视频备份，支持人脸识别 | [GitHub](https://github.com/immich-app/immich) | [Release][r-immich] |
+| <img src="apps/kavita/fnos/ICON.PNG" width="28"> | [**Kavita**](apps/kavita/) | `5000` | 漫画/电子书阅读 | [GitHub](https://github.com/Kareadita/Kavita) | [Release][r-kavita] |
+| <img src="apps/tinymediamanager/fnos/ICON.PNG" width="28"> | [**tinyMediaManager**](apps/tinymediamanager/) | `5800` | 影视元数据管理 | [官网](https://www.tinymediamanager.org) | [Release][r-tmm] |
+| <img src="apps/photoprism/fnos/ICON.PNG" width="28"> | [**PhotoPrism**](apps/photoprism/) | `2342` | AI 驱动的照片管理 | [官网](https://photoprism.app) | [Release][r-photoprism] |
+| <img src="apps/jellyseerr/fnos/ICON.PNG" width="28"> | [**Jellyseerr**](apps/jellyseerr/) | `5055` | Jellyfin/Plex 媒体请求管理 | [GitHub](https://github.com/Fallenbagel/jellyseerr) | [Release][r-jellyseerr] |
 
 ### ⬇️ 下载工具
 
-| | App | 端口 | 说明 | 下载 |
-|:---:|---|---:|---|:---:|
-| <img src="apps/qbittorrent/fnos/ICON.PNG" width="28"> | [**qBittorrent**](apps/qbittorrent/) | `8085` | BitTorrent 客户端，默认账号 `admin/adminadmin` | [Release][r-qb] |
-| <img src="apps/transmission/fnos/ICON.PNG" width="28"> | [**Transmission**](apps/transmission/) | `9091` | 轻量级 BitTorrent 客户端 | [Release][r-transmission] |
-| <img src="apps/gopeed/fnos/ICON.PNG" width="28"> | [**Gopeed**](apps/gopeed/) | `9999` | 高速下载器，支持 HTTP/BT/Magnet | [Release][r-gopeed] |
-| <img src="apps/syncthing/fnos/ICON.PNG" width="28"> | [**Syncthing**](apps/syncthing/) | `8384` | 文件同步工具，P2P 架构 | [Release][r-syncthing] |
+| | App | 端口 | 说明 | 来源 | 下载 |
+|:---:|---|---:|---|:---:|:---:|
+| <img src="apps/qbittorrent/fnos/ICON.PNG" width="28"> | [**qBittorrent**](apps/qbittorrent/) | `8085` | BitTorrent 客户端，默认账号 `admin/adminadmin` | [官网](https://www.qbittorrent.org) | [Release][r-qb] |
+| <img src="apps/transmission/fnos/ICON.PNG" width="28"> | [**Transmission**](apps/transmission/) | `9091` | 轻量级 BitTorrent 客户端 | [官网](https://transmissionbt.com) | [Release][r-transmission] |
+| <img src="apps/gopeed/fnos/ICON.PNG" width="28"> | [**Gopeed**](apps/gopeed/) | `9999` | 高速下载器，支持 HTTP/BT/Magnet | [官网](https://gopeed.com) | [Release][r-gopeed] |
+| <img src="apps/syncthing/fnos/ICON.PNG" width="28"> | [**Syncthing**](apps/syncthing/) | `8384` | 文件同步工具，P2P 架构 | [官网](https://syncthing.net) | [Release][r-syncthing] |
 
 ### 📚 内容管理
 
-| | App | 端口 | 说明 | 下载 |
-|:---:|---|---:|---|:---:|
-| <img src="apps/ani-rss/fnos/ICON.PNG" width="28"> | [**ANI-RSS**](apps/ani-rss/) | `7789` | 动漫 RSS 自动追番，默认账号 `admin/admin` | [Release][r-ani] |
-| <img src="apps/auto-bangumi/fnos/ICON.PNG" width="28"> | [**AutoBangumi**](apps/auto-bangumi/) | `7892` | RSS 自动追番下载整理，默认账号 `admin/adminadmin` | [Release][r-ab] |
-| <img src="apps/audiobookshelf/fnos/ICON.PNG" width="28"> | [**Audiobookshelf**](apps/audiobookshelf/) | `13378` | 有声书和播客服务器 | [Release][r-abs] |
-| <img src="apps/moviepilot/fnos/ICON.PNG" width="28"> | [**MoviePilot**](apps/moviepilot/) | `3000` | 影视自动化管理 | [Release][r-mp] |
-| <img src="apps/openlist/fnos/ICON.PNG" width="28"> | [**OpenList**](apps/openlist/) | `5244` | 文件列表/WebDAV | [Release][r-openlist] |
-| <img src="apps/kodbox/fnos/ICON.PNG" width="28"> | [**KodBox**](apps/kodbox/) | `8500` | 私有云存储/在线文档协作 | [Release][r-kodbox] |
-| <img src="apps/chinesesubfinder/fnos/ICON.PNG" width="28"> | [**ChineseSubFinder**](apps/chinesesubfinder/) | `19035` | 中文字幕自动下载 | [Release][r-csf] |
-| <img src="apps/freshrss/fnos/ICON.PNG" width="28"> | [**FreshRSS**](apps/freshrss/) | `8082` | 自托管 RSS 阅读器 | [Release][r-freshrss] |
-| <img src="apps/miniflux/fnos/ICON.PNG" width="28"> | [**Miniflux**](apps/miniflux/) | `8084` | 极简 RSS 阅读器 | [Release][r-miniflux] |
-| <img src="apps/linkwarden/fnos/ICON.PNG" width="28"> | [**Linkwarden**](apps/linkwarden/) | `3005` | 协作式书签管理 | [Release][r-linkwarden] |
-| <img src="apps/wikijs/fnos/ICON.PNG" width="28"> | [**Wiki.js**](apps/wikijs/) | `3080` | 现代化 Wiki 引擎 | [Release][r-wikijs] |
-| <img src="apps/mealie/fnos/ICON.PNG" width="28"> | [**Mealie**](apps/mealie/) | `9925` | 食谱管理与膳食计划 | [Release][r-mealie] |
-| <img src="apps/paperless-ngx/fnos/ICON.PNG" width="28"> | [**Paperless-ngx**](apps/paperless-ngx/) | `8000` | 文档数字化管理，OCR 支持 | [Release][r-paperless] |
+| | App | 端口 | 说明 | 来源 | 下载 |
+|:---:|---|---:|---|:---:|:---:|
+| <img src="apps/ani-rss/fnos/ICON.PNG" width="28"> | [**ANI-RSS**](apps/ani-rss/) | `7789` | 动漫 RSS 自动追番，默认账号 `admin/admin` | [GitHub](https://github.com/wushuo894/ani-rss) | [Release][r-ani] |
+| <img src="apps/auto-bangumi/fnos/ICON.PNG" width="28"> | [**AutoBangumi**](apps/auto-bangumi/) | `7892` | RSS 自动追番下载整理，默认账号 `admin/adminadmin` | [GitHub](https://github.com/EstrellaXD/Auto_Bangumi) | [Release][r-ab] |
+| <img src="apps/audiobookshelf/fnos/ICON.PNG" width="28"> | [**Audiobookshelf**](apps/audiobookshelf/) | `13378` | 有声书和播客服务器 | [官网](https://www.audiobookshelf.org) | [Release][r-abs] |
+| <img src="apps/moviepilot/fnos/ICON.PNG" width="28"> | [**MoviePilot**](apps/moviepilot/) | `3000` | 影视自动化管理 | [GitHub](https://github.com/jxxghp/MoviePilot) | [Release][r-mp] |
+| <img src="apps/openlist/fnos/ICON.PNG" width="28"> | [**OpenList**](apps/openlist/) | `5244` | 文件列表/WebDAV | [GitHub](https://github.com/OpenListTeam/OpenList) | [Release][r-openlist] |
+| <img src="apps/kodbox/fnos/ICON.PNG" width="28"> | [**KodBox**](apps/kodbox/) | `8500` | 私有云存储/在线文档协作 | [官网](https://kodcloud.com) | [Release][r-kodbox] |
+| <img src="apps/chinesesubfinder/fnos/ICON.PNG" width="28"> | [**ChineseSubFinder**](apps/chinesesubfinder/) | `19035` | 中文字幕自动下载 | [GitHub](https://github.com/ChineseSubFinder/ChineseSubFinder) | [Release][r-csf] |
+| <img src="apps/freshrss/fnos/ICON.PNG" width="28"> | [**FreshRSS**](apps/freshrss/) | `8082` | 自托管 RSS 阅读器 | [官网](https://freshrss.org) | [Release][r-freshrss] |
+| <img src="apps/miniflux/fnos/ICON.PNG" width="28"> | [**Miniflux**](apps/miniflux/) | `8084` | 极简 RSS 阅读器 | [官网](https://miniflux.app) | [Release][r-miniflux] |
+| <img src="apps/linkwarden/fnos/ICON.PNG" width="28"> | [**Linkwarden**](apps/linkwarden/) | `3005` | 协作式书签管理 | [官网](https://linkwarden.app) | [Release][r-linkwarden] |
+| <img src="apps/wikijs/fnos/ICON.PNG" width="28"> | [**Wiki.js**](apps/wikijs/) | `3080` | 现代化 Wiki 引擎 | [官网](https://js.wiki) | [Release][r-wikijs] |
+| <img src="apps/mealie/fnos/ICON.PNG" width="28"> | [**Mealie**](apps/mealie/) | `9925` | 食谱管理与膳食计划 | [官网](https://mealie.io) | [Release][r-mealie] |
+| <img src="apps/paperless-ngx/fnos/ICON.PNG" width="28"> | [**Paperless-ngx**](apps/paperless-ngx/) | `8000` | 文档数字化管理，OCR 支持 | [官网](https://docs.paperless-ngx.com) | [Release][r-paperless] |
 
 ### 🎵 *arr 媒体自动化
 
-| | App | 端口 | 说明 | 下载 |
-|:---:|---|---:|---|:---:|
-| <img src="apps/sonarr/fnos/ICON.PNG" width="28"> | [**Sonarr**](apps/sonarr/) | `8989` | 电视剧自动下载管理 | [Release][r-sonarr] |
-| <img src="apps/radarr/fnos/ICON.PNG" width="28"> | [**Radarr**](apps/radarr/) | `7878` | 电影自动下载管理 | [Release][r-radarr] |
-| <img src="apps/lidarr/fnos/ICON.PNG" width="28"> | [**Lidarr**](apps/lidarr/) | `8686` | 音乐自动下载管理 | [Release][r-lidarr] |
-| <img src="apps/readarr/fnos/ICON.PNG" width="28"> | [**Readarr**](apps/readarr/) | `8787` | 电子书自动下载管理 | [Release][r-readarr] |
-| <img src="apps/prowlarr/fnos/ICON.PNG" width="28"> | [**Prowlarr**](apps/prowlarr/) | `9696` | 索引器管理，整合 Sonarr/Radarr 等 | [Release][r-prowlarr] |
-| <img src="apps/bazarr/fnos/ICON.PNG" width="28"> | [**Bazarr**](apps/bazarr/) | `6767` | 字幕自动下载管理 | [Release][r-bazarr] |
+| | App | 端口 | 说明 | 来源 | 下载 |
+|:---:|---|---:|---|:---:|:---:|
+| <img src="apps/sonarr/fnos/ICON.PNG" width="28"> | [**Sonarr**](apps/sonarr/) | `8989` | 电视剧自动下载管理 | [官网](https://sonarr.tv) | [Release][r-sonarr] |
+| <img src="apps/radarr/fnos/ICON.PNG" width="28"> | [**Radarr**](apps/radarr/) | `7878` | 电影自动下载管理 | [官网](https://radarr.video) | [Release][r-radarr] |
+| <img src="apps/lidarr/fnos/ICON.PNG" width="28"> | [**Lidarr**](apps/lidarr/) | `8686` | 音乐自动下载管理 | [官网](https://lidarr.audio) | [Release][r-lidarr] |
+| <img src="apps/readarr/fnos/ICON.PNG" width="28"> | [**Readarr**](apps/readarr/) | `8787` | 电子书自动下载管理 | [官网](https://readarr.com) | [Release][r-readarr] |
+| <img src="apps/prowlarr/fnos/ICON.PNG" width="28"> | [**Prowlarr**](apps/prowlarr/) | `9696` | 索引器管理，整合 Sonarr/Radarr 等 | [官网](https://prowlarr.com) | [Release][r-prowlarr] |
+| <img src="apps/bazarr/fnos/ICON.PNG" width="28"> | [**Bazarr**](apps/bazarr/) | `6767` | 字幕自动下载管理 | [官网](https://www.bazarr.media) | [Release][r-bazarr] |
 
 ### 🔧 系统工具
 
-| | App | 端口 | 说明 | 下载 |
-|:---:|---|---:|---|:---:|
-| <img src="apps/sun-panel/fnos/ICON.PNG" width="28"> | [**Sun-Panel**](apps/sun-panel/) | `3002` | 服务器/NAS 导航面板 | [Release][r-sunpanel] |
-| <img src="apps/homepage/fnos/ICON.PNG" width="28"> | [**Homepage**](apps/homepage/) | `3003` | 高度可定制的应用仪表盘 | [Release][r-homepage] |
-| <img src="apps/homarr/fnos/ICON.PNG" width="28"> | [**Homarr**](apps/homarr/) | `7575` | 服务器仪表盘与应用管理 | [Release][r-homarr] |
-| <img src="apps/certimate/fnos/ICON.PNG" width="28"> | [**Certimate**](apps/certimate/) | `8090` | SSL 证书管理 | [Release][r-certimate] |
-| <img src="apps/vaultwarden/fnos/ICON.PNG" width="28"> | [**Vaultwarden**](apps/vaultwarden/) | `8880` | 密码管理（Bitwarden 兼容） | [Release][r-vw] |
-| <img src="apps/nginx/fnos/ICON.PNG" width="28"> | [**Nginx**](apps/nginx/) | `8888` | HTTP 服务与反向代理 | [Release][r-nginx] |
-| <img src="apps/nginx-ui/fnos/ICON.PNG" width="28"> | [**Nginx UI**](apps/nginx-ui/) | `9000` | Nginx 可视化管理面板，内置 Nginx 引擎 | [Release][r-nginx-ui] |
-| <img src="apps/gotify/fnos/ICON.PNG" width="28"> | [**Gotify**](apps/gotify/) | `8070` | 自托管推送通知服务 | [Release][r-gotify] |
-| <img src="apps/ddns-go/fnos/ICON.PNG" width="28"> | [**DDNS-GO**](apps/ddns-go/) | `9876` | 动态 DNS 解析客户端 | [Release][r-ddnsgo] |
-| <img src="apps/wolgoweb/fnos/ICON.PNG" width="28"> | [**WolGoWeb**](apps/wolgoweb/) | `9090` | 网络唤醒 (Wake-on-LAN) 管理 | [Release][r-wolgoweb] |
-| <img src="apps/adguardhome/fnos/ICON.PNG" width="28"> | [**AdGuardHome**](apps/adguardhome/) | `3080` | 全网广告拦截与 DNS 管理 | [Release][r-adguardhome] |
-| <img src="apps/uptime-kuma/fnos/ICON.PNG" width="28"> | [**Uptime Kuma**](apps/uptime-kuma/) | `3001` | 自托管服务监控 | [Release][r-uptimekuma] |
-| <img src="apps/beszel/fnos/ICON.PNG" width="28"> | [**Beszel**](apps/beszel/) | `18090` | 轻量级服务器监控 | [Release][r-beszel] |
-| <img src="apps/filebrowser/fnos/ICON.PNG" width="28"> | [**FileBrowser**](apps/filebrowser/) | `8089` | Web 文件管理器 | [Release][r-filebrowser] |
-| <img src="apps/stirling-pdf/fnos/ICON.PNG" width="28"> | [**Stirling-PDF**](apps/stirling-pdf/) | `18080` | 自托管 PDF 工具箱 | [Release][r-stirlingpdf] |
-| <img src="apps/actual-budget/fnos/ICON.PNG" width="28"> | [**Actual Budget**](apps/actual-budget/) | `5006` | 自托管个人财务管理 | [Release][r-actual] |
-| <img src="apps/lucky/fnos/ICON.PNG" width="28"> | [**Lucky**](apps/lucky/) | `16601` | DDNS/反向代理/端口转发多功能工具 | [Release][r-lucky] |
+| | App | 端口 | 说明 | 来源 | 下载 |
+|:---:|---|---:|---|:---:|:---:|
+| <img src="apps/sun-panel/fnos/ICON.PNG" width="28"> | [**Sun-Panel**](apps/sun-panel/) | `3002` | 服务器/NAS 导航面板 | [官网](https://doc.sun-panel.top/zh_cn) | [Release][r-sunpanel] |
+| <img src="apps/homepage/fnos/ICON.PNG" width="28"> | [**Homepage**](apps/homepage/) | `3003` | 高度可定制的应用仪表盘 | [官网](https://gethomepage.dev) | [Release][r-homepage] |
+| <img src="apps/homarr/fnos/ICON.PNG" width="28"> | [**Homarr**](apps/homarr/) | `7575` | 服务器仪表盘与应用管理 | [官网](https://homarr.dev) | [Release][r-homarr] |
+| <img src="apps/certimate/fnos/ICON.PNG" width="28"> | [**Certimate**](apps/certimate/) | `8090` | SSL 证书管理 | [GitHub](https://github.com/certimate-go/certimate) | [Release][r-certimate] |
+| <img src="apps/vaultwarden/fnos/ICON.PNG" width="28"> | [**Vaultwarden**](apps/vaultwarden/) | `8880` | 密码管理（Bitwarden 兼容） | [GitHub](https://github.com/dani-garcia/vaultwarden) | [Release][r-vw] |
+| <img src="apps/nginx/fnos/ICON.PNG" width="28"> | [**Nginx**](apps/nginx/) | `8888` | HTTP 服务与反向代理 | [官网](https://nginx.org) | [Release][r-nginx] |
+| <img src="apps/nginx-ui/fnos/ICON.PNG" width="28"> | [**Nginx UI**](apps/nginx-ui/) | `9000` | Nginx 可视化管理面板，内置 Nginx 引擎 | [GitHub](https://github.com/0xJacky/nginx-ui) | [Release][r-nginx-ui] |
+| <img src="apps/gotify/fnos/ICON.PNG" width="28"> | [**Gotify**](apps/gotify/) | `8070` | 自托管推送通知服务 | [官网](https://gotify.net) | [Release][r-gotify] |
+| <img src="apps/ddns-go/fnos/ICON.PNG" width="28"> | [**DDNS-GO**](apps/ddns-go/) | `9876` | 动态 DNS 解析客户端 | [GitHub](https://github.com/jeessy2/ddns-go) | [Release][r-ddnsgo] |
+| <img src="apps/wolgoweb/fnos/ICON.PNG" width="28"> | [**WolGoWeb**](apps/wolgoweb/) | `9090` | 网络唤醒 (Wake-on-LAN) 管理 | [GitHub](https://github.com/xiaoxinpro/WolGoWeb) | [Release][r-wolgoweb] |
+| <img src="apps/adguardhome/fnos/ICON.PNG" width="28"> | [**AdGuardHome**](apps/adguardhome/) | `3080` | 全网广告拦截与 DNS 管理 | [官网](https://adguard.com/adguard-home/overview.html) | [Release][r-adguardhome] |
+| <img src="apps/uptime-kuma/fnos/ICON.PNG" width="28"> | [**Uptime Kuma**](apps/uptime-kuma/) | `3001` | 自托管服务监控 | [GitHub](https://github.com/louislam/uptime-kuma) | [Release][r-uptimekuma] |
+| <img src="apps/beszel/fnos/ICON.PNG" width="28"> | [**Beszel**](apps/beszel/) | `18090` | 轻量级服务器监控 | [GitHub](https://github.com/henrygd/beszel) | [Release][r-beszel] |
+| <img src="apps/filebrowser/fnos/ICON.PNG" width="28"> | [**FileBrowser**](apps/filebrowser/) | `8089` | Web 文件管理器 | [官网](https://filebrowser.org) | [Release][r-filebrowser] |
+| <img src="apps/stirling-pdf/fnos/ICON.PNG" width="28"> | [**Stirling-PDF**](apps/stirling-pdf/) | `18080` | 自托管 PDF 工具箱 | [官网](https://stirlingpdf.io) | [Release][r-stirlingpdf] |
+| <img src="apps/actual-budget/fnos/ICON.PNG" width="28"> | [**Actual Budget**](apps/actual-budget/) | `5006` | 自托管个人财务管理 | [官网](https://actualbudget.org) | [Release][r-actual] |
+| <img src="apps/lucky/fnos/ICON.PNG" width="28"> | [**Lucky**](apps/lucky/) | `16601` | DDNS/反向代理/端口转发多功能工具 | [官网](https://lucky666.cn) | [Release][r-lucky] |
 
 ### 🌐 网络工具
 
-| | App | 端口 | 说明 | 下载 |
-|:---:|---|---:|---|:---:|
-| <img src="apps/smartdns/fnos/ICON.PNG" width="28"> | [**SmartDNS**](apps/smartdns/) | `6580` | 本地 DNS 加速与优选 | [Release][r-smartdns] |
-| <img src="apps/mosdns/fnos/ICON.PNG" width="28"> | [**MosDNS**](apps/mosdns/) | `5353` | DNS 转发与分流 | [Release][r-mosdns] |
+| | App | 端口 | 说明 | 来源 | 下载 |
+|:---:|---|---:|---|:---:|:---:|
+| <img src="apps/smartdns/fnos/ICON.PNG" width="28"> | [**SmartDNS**](apps/smartdns/) | `6580` | 本地 DNS 加速与优选 | [GitHub](https://github.com/pymumu/smartdns) | [Release][r-smartdns] |
+| <img src="apps/mosdns/fnos/ICON.PNG" width="28"> | [**MosDNS**](apps/mosdns/) | `5353` | DNS 转发与分流 | [GitHub](https://github.com/IrineSistiana/mosdns) | [Release][r-mosdns] |
 
 ### 🌐 浏览器
 
-| | App | 端口 | 说明 | 下载 |
-|:---:|---|---:|---|:---:|
-| <img src="apps/firefox/fnos/ICON.PNG" width="28"> | [**Firefox**](apps/firefox/) | `5801` | 远程浏览器，支持中文 | [Release][r-firefox] |
-| <img src="apps/chromium/fnos/ICON.PNG" width="28"> | [**Chromium**](apps/chromium/) | `5802` | 远程浏览器，支持中文 | [Release][r-chromium] |
+| | App | 端口 | 说明 | 来源 | 下载 |
+|:---:|---|---:|---|:---:|:---:|
+| <img src="apps/firefox/fnos/ICON.PNG" width="28"> | [**Firefox**](apps/firefox/) | `5801` | 远程浏览器，支持中文 | [GitHub](https://github.com/jlesage/docker-firefox) | [Release][r-firefox] |
+| <img src="apps/chromium/fnos/ICON.PNG" width="28"> | [**Chromium**](apps/chromium/) | `5802` | 远程浏览器，支持中文 | [GitHub](https://github.com/jlesage/docker-chromium) | [Release][r-chromium] |
 
 ## 反馈与请求
 
