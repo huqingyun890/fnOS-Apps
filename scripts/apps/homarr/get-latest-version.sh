@@ -3,11 +3,13 @@ set -euo pipefail
 
 INPUT_VERSION="${1:-}"
 
+TAG=$(curl -sL "https://api.github.com/repos/homarr-labs/homarr/releases/latest" | \
+  jq -r '.tag_name')
+
 if [ -n "$INPUT_VERSION" ]; then
   VERSION="$INPUT_VERSION"
 else
-  VERSION=$(curl -sL "https://api.github.com/repos/homarr-labs/homarr/releases/latest" | \
-    jq -r '.tag_name')
+  VERSION=$(echo "$TAG" | sed 's/^v//')
 fi
 
 [ -z "$VERSION" ] && { echo "Failed to resolve version for homarr" >&2; exit 1; }
