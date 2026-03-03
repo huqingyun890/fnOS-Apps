@@ -39,6 +39,7 @@ jobs:
       fpk_version: ${{ steps.check.outputs.fpk_version }}
       file_prefix: ${{ steps.meta.outputs.file_prefix }}
       release_title: ${{ steps.meta.outputs.release_title }}
+      arch_matrix: ${{ steps.meta.outputs.arch_matrix }}
 
     steps:
       - name: Checkout
@@ -63,6 +64,12 @@ jobs:
           source "scripts/apps/${APP}/meta.env"
           echo "file_prefix=${FILE_PREFIX}" >> "$GITHUB_OUTPUT"
           echo "release_title=${RELEASE_TITLE}" >> "$GITHUB_OUTPUT"
+
+          # Architecture matrix: default both, apps can override via SUPPORTED_ARCH
+          SUPPORTED_ARCH="${SUPPORTED_ARCH:-x86 arm}"
+          ARCH_JSON=$(echo "$SUPPORTED_ARCH" | tr ' ' '\n' | jq -R -s -c 'split("\n") | map(select(. != ""))')
+          echo "arch_matrix=${ARCH_JSON}" >> "$GITHUB_OUTPUT"
+          echo "Architectures: ${ARCH_JSON}"
 
       - name: Get Latest Version
         id: version
@@ -89,7 +96,7 @@ jobs:
     strategy:
       fail-fast: true
       matrix:
-        arch: [x86, arm]
+        arch: ${{ fromJson(needs.check-version.outputs.arch_matrix) }}
         include:
           - arch: x86
             manifest_platform: x86
@@ -194,8 +201,7 @@ jobs:
           gh release create "$RELEASE_TAG" \
             --title "${TITLE_PREFIX} ${VERSION} for fnOS" \
             --notes "$NOTES" \
-            artifacts/fpk-${APP}-x86/*.fpk \
-            artifacts/fpk-${APP}-arm/*.fpk
+            artifacts/fpk-${APP}-*/*.fpk
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
