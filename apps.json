@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-03-03T19:23:52Z",
+  "generated_at": "2026-03-03T19:24:00Z",
   "source": {
     "name": "conversun/fnos-apps",
     "url": "https://github.com/conversun/fnos-apps"
@@ -330,8 +330,8 @@
       "display_name": "FileBrowser",
       "description": "轻量级网页文件管理器，支持文件上传、下载和分享",
       "version": "2.61.0",
-      "fpk_version": "2.61.0",
-      "release_tag": "filebrowser/v2.61.0",
+      "fpk_version": "2.61.0-r1",
+      "release_tag": "filebrowser/v2.61.0-r1",
       "service_port": 8082,
       "homepage_url": "https://filebrowser.org",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/filebrowser/fnos/ICON_256.PNG",
@@ -339,7 +339,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-03T13:38:42Z",
+      "updated_at": "2026-03-03T19:23:53Z",
       "download_count": 5,
       "app_type": "native",
       "category": "system"
