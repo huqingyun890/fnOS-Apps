@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-03-03T13:39:18Z",
+  "generated_at": "2026-03-03T13:39:30Z",
   "source": {
     "name": "conversun/fnos-apps",
     "url": "https://github.com/conversun/fnos-apps"
@@ -44,7 +44,7 @@
         "arm"
       ],
       "updated_at": "2026-03-03T08:12:15Z",
-      "download_count": 171,
+      "download_count": 155,
       "app_type": "docker",
       "category": "content"
     },
@@ -86,7 +86,28 @@
         "arm"
       ],
       "updated_at": "2026-03-01T08:12:34Z",
-      "download_count": 47,
+      "download_count": 43,
+      "app_type": "docker",
+      "category": "content"
+    },
+    {
+      "slug": "bazarr",
+      "appname": "bazarr",
+      "file_prefix": "bazarr",
+      "display_name": "Bazarr",
+      "description": "字幕自动化管理工具，与 Sonarr/Radarr 集成自动下载匹配字幕",
+      "version": "1.5.6",
+      "fpk_version": "1.5.6",
+      "release_tag": "bazarr/v1.5.6",
+      "service_port": 6767,
+      "homepage_url": "https://www.bazarr.media",
+      "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/bazarr/fnos/ICON_256.PNG",
+      "platforms": [
+        "x86",
+        "arm"
+      ],
+      "updated_at": "2026-03-03T13:39:21Z",
+      "download_count": 0,
       "app_type": "docker",
       "category": "content"
     },
@@ -212,7 +233,7 @@
         "arm"
       ],
       "updated_at": "2026-02-14T14:38:36Z",
-      "download_count": 564,
+      "download_count": 541,
       "app_type": "native",
       "category": "media"
     },
@@ -278,6 +299,27 @@
       "download_count": 1191,
       "app_type": "native",
       "category": "store"
+    },
+    {
+      "slug": "freshrss",
+      "appname": "freshrss",
+      "file_prefix": "freshrss",
+      "display_name": "FreshRSS",
+      "description": "自托管 RSS 阅读器，支持 Google Reader API 和第三方客户端",
+      "version": "1.28.1",
+      "fpk_version": "1.28.1",
+      "release_tag": "freshrss/v1.28.1",
+      "service_port": 8180,
+      "homepage_url": "https://freshrss.org",
+      "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/freshrss/fnos/ICON_256.PNG",
+      "platforms": [
+        "x86",
+        "arm"
+      ],
+      "updated_at": "2026-03-03T13:39:18Z",
+      "download_count": 0,
+      "app_type": "docker",
+      "category": "content"
     },
     {
       "slug": "gopeed",
@@ -406,6 +448,27 @@
       "category": "media"
     },
     {
+      "slug": "jellyseerr",
+      "appname": "jellyseerr",
+      "file_prefix": "jellyseerr",
+      "display_name": "Jellyseerr",
+      "description": "媒体请求管理工具，家庭成员可请求想看的影视并自动下载",
+      "version": "2.7.3",
+      "fpk_version": "2.7.3",
+      "release_tag": "jellyseerr/v2.7.3",
+      "service_port": 5055,
+      "homepage_url": "https://github.com/Fallenbagel/jellyseerr",
+      "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/jellyseerr/fnos/ICON_256.PNG",
+      "platforms": [
+        "x86",
+        "arm"
+      ],
+      "updated_at": "2026-03-03T13:39:18Z",
+      "download_count": 0,
+      "app_type": "docker",
+      "category": "content"
+    },
+    {
       "slug": "kavita",
       "appname": "kavita",
       "file_prefix": "kavita",
@@ -469,6 +532,27 @@
       "category": "media"
     },
     {
+      "slug": "lidarr",
+      "appname": "lidarr",
+      "file_prefix": "lidarr",
+      "display_name": "Lidarr",
+      "description": "音乐自动化管理工具，自动搜索和下载音乐专辑",
+      "version": "3.1.0.4875",
+      "fpk_version": "3.1.0.4875",
+      "release_tag": "lidarr/v3.1.0.4875",
+      "service_port": 8686,
+      "homepage_url": "https://lidarr.audio",
+      "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/lidarr/fnos/ICON_256.PNG",
+      "platforms": [
+        "x86",
+        "arm"
+      ],
+      "updated_at": "2026-03-03T13:39:22Z",
+      "download_count": 0,
+      "app_type": "native",
+      "category": "content"
+    },
+    {
       "slug": "lucky",
       "appname": "lucky",
       "file_prefix": "lucky",
@@ -488,6 +572,27 @@
       "download_count": 0,
       "app_type": "native",
       "category": "system"
+    },
+    {
+      "slug": "mealie",
+      "appname": "mealie",
+      "file_prefix": "mealie",
+      "display_name": "Mealie",
+      "description": "自托管食谱管理工具，支持网页导入和家庭共享",
+      "version": "3.11.0",
+      "fpk_version": "3.11.0",
+      "release_tag": "mealie/v3.11.0",
+      "service_port": 9925,
+      "homepage_url": "https://mealie.io",
+      "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/mealie/fnos/ICON_256.PNG",
+      "platforms": [
+        "x86",
+        "arm"
+      ],
+      "updated_at": "2026-03-03T13:39:22Z",
+      "download_count": 0,
+      "app_type": "docker",
+      "category": "content"
     },
     {
       "slug": "memos",
@@ -674,7 +779,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "0001-01-01T00:00:00Z",
+      "updated_at": "2026-03-03T13:39:16Z",
       "download_count": 0,
       "app_type": "docker",
       "category": "system"
@@ -780,6 +885,27 @@
         "arm"
       ],
       "updated_at": "2026-03-03T13:39:10Z",
+      "download_count": 0,
+      "app_type": "native",
+      "category": "content"
+    },
+    {
+      "slug": "readarr",
+      "appname": "readarr",
+      "file_prefix": "readarr",
+      "display_name": "Readarr",
+      "description": "电子书自动化管理工具，自动搜索和下载电子书与有声书",
+      "version": "0.4.18.2805",
+      "fpk_version": "0.4.18.2805",
+      "release_tag": "readarr/v0.4.18.2805",
+      "service_port": 8787,
+      "homepage_url": "https://readarr.com",
+      "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/readarr/fnos/ICON_256.PNG",
+      "platforms": [
+        "x86",
+        "arm"
+      ],
+      "updated_at": "2026-03-03T13:39:26Z",
       "download_count": 0,
       "app_type": "native",
       "category": "content"
