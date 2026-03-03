@@ -13,15 +13,16 @@ curl -fL -o syncthing.tar.gz "$DOWNLOAD_URL"
 
 tar -xzf syncthing.tar.gz
 
-mkdir -p app_root
+mkdir -p app_root/bin app_root/ui
 SYNCTHING_BIN=$(find . -path "*/syncthing-linux-*/syncthing" -type f | head -1)
 [ -z "$SYNCTHING_BIN" ] && { echo "syncthing binary not found in tar.gz" >&2; exit 1; }
 
 cp "$SYNCTHING_BIN" app_root/syncthing
 chmod +x app_root/syncthing
 
-cp apps/syncthing/fnos/bin/syncthing-server app_root/bin/syncthing-server 2>/dev/null || mkdir -p app_root/bin && cp apps/syncthing/fnos/bin/syncthing-server app_root/bin/syncthing-server
+cp apps/syncthing/fnos/bin/syncthing-server app_root/bin/syncthing-server
 chmod +x app_root/bin/syncthing-server
+cp -a apps/syncthing/fnos/ui/* app_root/ui/ 2>/dev/null || true
 
 cd app_root
 tar -czf ../app.tgz .

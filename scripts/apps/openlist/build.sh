@@ -13,12 +13,13 @@ curl -fL -o openlist.tar.gz "$DOWNLOAD_URL"
 
 tar -xzf openlist.tar.gz
 
-mkdir -p app_root
+mkdir -p app_root/ui
 OPENLIST_BIN=$(find . -name "openlist" -type f | head -1)
 [ -z "$OPENLIST_BIN" ] && { echo "openlist binary not found in tarball" >&2; exit 1; }
 
 cp "$OPENLIST_BIN" app_root/openlist
 chmod +x app_root/openlist
+cp -a apps/openlist/fnos/ui/* app_root/ui/ 2>/dev/null || true
 
 cd app_root
 tar -czf ../app.tgz .
