@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-03-03T08:09:50Z",
+  "generated_at": "2026-03-03T08:12:27Z",
   "source": {
     "name": "conversun/fnos-apps",
     "url": "https://github.com/conversun/fnos-apps"
@@ -33,9 +33,9 @@
       "file_prefix": "ani-rss",
       "display_name": "ANI-RSS",
       "description": "动漫 RSS 自动追番、订阅、下载和刮削工具，支持自动识别季数集数和重命名。默认用户名admin，密码admin。",
-      "version": "3.0.2",
-      "fpk_version": "3.0.2",
-      "release_tag": "ani-rss/v3.0.2",
+      "version": "3.0.3",
+      "fpk_version": "3.0.3",
+      "release_tag": "ani-rss/v3.0.3",
       "service_port": 7789,
       "homepage_url": "https://github.com/wushuo894/ani-rss",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/ani-rss/fnos/ICON_256.PNG",
@@ -43,7 +43,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-01T08:06:51Z",
+      "updated_at": "2026-03-03T08:12:15Z",
       "download_count": 149,
       "app_type": "docker",
       "category": "content"
