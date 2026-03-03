@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-03-03T19:22:49Z",
+  "generated_at": "2026-03-03T19:23:11Z",
   "source": {
     "name": "conversun/fnos-apps",
     "url": "https://github.com/conversun/fnos-apps"
@@ -119,8 +119,8 @@
       "display_name": "AutoBangumi",
       "description": "基于 RSS 的全自动追番下载整理工具，支持 Mikan 等数据源，自动下载并重命名为 Plex/Jellyfin 兼容格式。",
       "version": "3.2.6",
-      "fpk_version": "3.2.6",
-      "release_tag": "auto-bangumi/v3.2.6",
+      "fpk_version": "3.2.6-r1",
+      "release_tag": "auto-bangumi/v3.2.6-r1",
       "service_port": 7892,
       "homepage_url": "https://github.com/EstrellaXD/Auto_Bangumi",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/auto-bangumi/fnos/ICON_256.PNG",
@@ -128,7 +128,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-01T08:12:34Z",
+      "updated_at": "2026-03-03T19:23:03Z",
       "download_count": 45,
       "app_type": "docker",
       "category": "content"
@@ -182,8 +182,8 @@
       "display_name": "Certimate",
       "description": "SSL/TLS证书自动化管理工具，支持ACME协议自动申请和续签证书。",
       "version": "0.4.17",
-      "fpk_version": "0.4.17-r4",
-      "release_tag": "certimate/v0.4.17-r4",
+      "fpk_version": "0.4.17-r5",
+      "release_tag": "certimate/v0.4.17-r5",
       "service_port": 8090,
       "homepage_url": "https://github.com/certimate-go/certimate",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/certimate/fnos/ICON_256.PNG",
@@ -191,7 +191,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-03T18:47:25Z",
+      "updated_at": "2026-03-03T19:22:58Z",
       "download_count": 27,
       "app_type": "native",
       "category": "system"
@@ -266,8 +266,8 @@
       "display_name": "DDNS-GO",
       "description": "DDNS-GO 是一个简单好用的 DDNS 工具，支持阿里云、腾讯云、Cloudflare 等多个 DNS 服务商。",
       "version": "6.16.0",
-      "fpk_version": "6.16.0-r1",
-      "release_tag": "ddns-go/v6.16.0-r1",
+      "fpk_version": "6.16.0-r2",
+      "release_tag": "ddns-go/v6.16.0-r2",
       "service_port": 9876,
       "homepage_url": "https://github.com/jeessy2/ddns-go",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/ddns-go/fnos/ICON_256.PNG",
@@ -275,7 +275,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-03T18:47:11Z",
+      "updated_at": "2026-03-03T19:22:59Z",
       "download_count": 20,
       "app_type": "native",
       "category": "system"
@@ -435,8 +435,8 @@
       "display_name": "Gitea",
       "description": "轻量级 Git 代码托管服务器，提供代码仓库、Issue 追踪和 CI/CD。",
       "version": "1.25.4",
-      "fpk_version": "1.25.4-r1",
-      "release_tag": "gitea/v1.25.4-r1",
+      "fpk_version": "1.25.4-r2",
+      "release_tag": "gitea/v1.25.4-r2",
       "service_port": 3003,
       "homepage_url": "https://gitea.com",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/gitea/fnos/ICON_256.PNG",
@@ -444,7 +444,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-03T18:47:18Z",
+      "updated_at": "2026-03-03T19:23:07Z",
       "download_count": 0,
       "app_type": "native",
       "category": "system"
@@ -624,8 +624,8 @@
       "display_name": "Immich",
       "description": "自托管照片和视频备份方案,支持人脸识别和智能搜索。",
       "version": "2.5.6",
-      "fpk_version": "2.5.6-r3",
-      "release_tag": "immich/v2.5.6-r3",
+      "fpk_version": "2.5.6-r4",
+      "release_tag": "immich/v2.5.6-r4",
       "service_port": 2283,
       "homepage_url": "https://github.com/immich-app/immich",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/immich/fnos/ICON_256.PNG",
@@ -633,7 +633,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-02-28T06:24:08Z",
+      "updated_at": "2026-03-03T19:22:58Z",
       "download_count": 48,
       "app_type": "docker",
       "category": "media"
@@ -1279,8 +1279,8 @@
       "display_name": "Prometheus",
       "description": "时序数据库和监控系统，支持灵活的查询语言和告警规则。",
       "version": "3.10.0",
-      "fpk_version": "3.10.0-r1",
-      "release_tag": "prometheus/v3.10.0-r1",
+      "fpk_version": "3.10.0-r2",
+      "release_tag": "prometheus/v3.10.0-r2",
       "service_port": 9090,
       "homepage_url": "https://prometheus.io",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/prometheus/fnos/ICON_256.PNG",
@@ -1288,7 +1288,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-03T18:47:28Z",
+      "updated_at": "2026-03-03T19:22:52Z",
       "download_count": 0,
       "app_type": "native",
       "category": "system"
@@ -1447,8 +1447,8 @@
       "display_name": "SmartDNS",
       "description": "本地 DNS 加速与优选工具，多 DNS 查询并返回最快结果",
       "version": "1.2025.11.09-1443",
-      "fpk_version": "1.2025.11.09-1443-r1",
-      "release_tag": "smartdns/v1.2025.11.09-1443-r1",
+      "fpk_version": "1.2025.11.09-1443-r2",
+      "release_tag": "smartdns/v1.2025.11.09-1443-r2",
       "service_port": 6580,
       "homepage_url": "https://github.com/pymumu/smartdns",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/smartdns/fnos/ICON_256.PNG",
@@ -1456,7 +1456,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-03T18:47:12Z",
+      "updated_at": "2026-03-03T19:22:56Z",
       "download_count": 7,
       "app_type": "native",
       "category": "system"
@@ -1625,7 +1625,7 @@
         "arm"
       ],
       "updated_at": "2026-03-03T19:22:29Z",
-      "download_count": 66,
+      "download_count": 53,
       "app_type": "docker",
       "category": "download"
     },
@@ -1720,8 +1720,8 @@
       "display_name": "WolGoWeb",
       "description": "WolGoWeb 是基于 Golang 的远程唤醒 WebAPI 工具，用于在局域网中通过网页唤醒主机。",
       "version": "1.7.71",
-      "fpk_version": "1.7.71-r3",
-      "release_tag": "wolgoweb/v1.7.71-r3",
+      "fpk_version": "1.7.71-r4",
+      "release_tag": "wolgoweb/v1.7.71-r4",
       "service_port": 9090,
       "homepage_url": "https://github.com/xiaoxinpro/WolGoWeb",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/wolgoweb/fnos/ICON_256.PNG",
@@ -1729,7 +1729,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-02-28T06:24:14Z",
+      "updated_at": "2026-03-03T19:23:02Z",
       "download_count": 29,
       "app_type": "native",
       "category": "system"
