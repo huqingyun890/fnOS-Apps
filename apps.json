@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-03-08T08:04:54Z",
+  "generated_at": "2026-03-08T08:06:33Z",
   "source": {
     "name": "conversun/fnos-apps",
     "url": "https://github.com/conversun/fnos-apps"
@@ -1236,9 +1236,9 @@
       "file_prefix": "openclaw",
       "display_name": "OpenClaw AI 网关",
       "description": "AI 智能体 Gateway 网关，支持 Telegram、Discord、WhatsApp 等多渠道接入",
-      "version": "2026.3.2",
-      "fpk_version": "2026.3.2-r2",
-      "release_tag": "openclaw/v2026.3.2-r2",
+      "version": "2026.3.7",
+      "fpk_version": "2026.3.7",
+      "release_tag": "openclaw/v2026.3.7",
       "service_port": 18789,
       "homepage_url": "https://docs.openclaw.ai/",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/openclaw/fnos/ICON_256.PNG",
@@ -1246,8 +1246,8 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-04T06:13:20Z",
-      "download_count": 179,
+      "updated_at": "2026-03-08T08:06:21Z",
+      "download_count": 180,
       "app_type": "native",
       "category": "system"
     },
