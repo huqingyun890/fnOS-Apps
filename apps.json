@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-03-08T08:04:09Z",
+  "generated_at": "2026-03-08T08:04:17Z",
   "source": {
     "name": "conversun/fnos-apps",
     "url": "https://github.com/conversun/fnos-apps"
@@ -877,8 +877,8 @@
       "display_name": "Linkwarden",
       "description": "协作式书签管理器，支持网页存档和标签分类",
       "version": "2.13.5",
-      "fpk_version": "2.13.5-r1",
-      "release_tag": "linkwarden/v2.13.5-r1",
+      "fpk_version": "2.13.5",
+      "release_tag": "linkwarden/v2.13.5",
       "service_port": 3050,
       "homepage_url": "https://linkwarden.app",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/linkwarden/fnos/ICON_256.PNG",
@@ -886,8 +886,8 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-03T19:22:27Z",
-      "download_count": 17,
+      "updated_at": "2026-03-08T08:04:12Z",
+      "download_count": 0,
       "app_type": "docker",
       "category": "content"
     },
@@ -1215,9 +1215,9 @@
       "file_prefix": "ntfy",
       "display_name": "Ntfy",
       "description": "自托管的推送通知服务器，支持 HTTP 接口发送通知到手机和桌面。",
-      "version": "2.17.0",
-      "fpk_version": "2.17.0-r2",
-      "release_tag": "ntfy/v2.17.0-r2",
+      "version": "2.18.0",
+      "fpk_version": "2.18.0",
+      "release_tag": "ntfy/v2.18.0",
       "service_port": 2586,
       "homepage_url": "https://ntfy.sh",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/ntfy/fnos/ICON_256.PNG",
@@ -1225,7 +1225,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-03T19:21:53Z",
+      "updated_at": "2026-03-08T08:04:09Z",
       "download_count": 6,
       "app_type": "native",
       "category": "system"
