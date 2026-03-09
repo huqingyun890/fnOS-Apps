@@ -1,0 +1,25 @@
+{
+    "port-config": {
+        "protocol-file": "MelodyHub.sc"
+    },
+    "data-share": {
+        "shares": [
+            {
+                "name": "MelodyHub",
+                "permission": {
+                    "rw": [
+                        "melody-hub"
+                    ]
+                }
+            }
+        ]
+    },
+    "docker-project": {
+        "projects": [
+            {
+                "name": "melody-hub",
+                "path": "docker"
+            }
+        ]
+    }
+}

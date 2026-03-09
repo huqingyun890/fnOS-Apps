@@ -1,0 +1,7 @@
+{
+    "defaults": {
+        "run-as": "package"
+    },
+    "username": "melody-hub",
+    "groupname": "melody-hub"
+}

@@ -1,0 +1,6 @@
+#!/bin/bash
+
+service_postinst() {
+    mkdir -p "${TRIM_PKGVAR}/data" "${TRIM_PKGVAR}/music" 2>/dev/null || true
+    chown -R "${TRIM_UID}:${TRIM_GID}" "${TRIM_PKGVAR}/data" "${TRIM_PKGVAR}/music" 2>/dev/null || true
+}
