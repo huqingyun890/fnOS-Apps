@@ -109,7 +109,7 @@
       "updated_at": "2026-03-11T18:22:58Z",
       "download_count": 25,
       "app_type": "docker",
-      "category": "system",
+      "category": "content",
       "post_install_note": "AppFlowy Cloud 需要配合 AppFlowy 客户端使用。"
     },
     {
@@ -152,7 +152,7 @@
       "updated_at": "2026-03-11T18:23:57Z",
       "download_count": 12,
       "app_type": "docker",
-      "category": "content"
+      "category": "automation"
     },
     {
       "slug": "bazarr",
@@ -173,7 +173,7 @@
       "updated_at": "2026-03-11T18:23:21Z",
       "download_count": 12,
       "app_type": "docker",
-      "category": "content"
+      "category": "automation"
     },
     {
       "slug": "beszel",
@@ -257,7 +257,7 @@
       "updated_at": "2026-03-03T13:38:30Z",
       "download_count": 43,
       "app_type": "native",
-      "category": "content"
+      "category": "automation"
     },
     {
       "slug": "chromium",
@@ -320,7 +320,7 @@
       "updated_at": "2026-03-11T17:27:42Z",
       "download_count": 0,
       "app_type": "docker",
-      "category": "system"
+      "category": "network"
     },
     {
       "slug": "cloudreve",
@@ -341,7 +341,7 @@
       "updated_at": "2026-03-08T08:03:50Z",
       "download_count": 11,
       "app_type": "native",
-      "category": "system"
+      "category": "download"
     },
     {
       "slug": "copyparty",
@@ -362,7 +362,7 @@
       "updated_at": "2026-03-11T18:23:28Z",
       "download_count": 7,
       "app_type": "docker",
-      "category": "content"
+      "category": "download"
     },
     {
       "slug": "ddns-go",
@@ -446,7 +446,7 @@
       "updated_at": "2026-03-11T17:27:45Z",
       "download_count": 0,
       "app_type": "native",
-      "category": "system"
+      "category": "network"
     },
     {
       "slug": "emby",
@@ -488,7 +488,7 @@
       "updated_at": "2026-03-11T18:23:47Z",
       "download_count": 26,
       "app_type": "docker",
-      "category": "system",
+      "category": "media",
       "post_install_note": "首次启动会初始化 PostgreSQL 和 MinIO，请耐心等待。"
     },
     {
@@ -531,7 +531,7 @@
       "updated_at": "2026-03-07T08:02:23Z",
       "download_count": 49,
       "app_type": "native",
-      "category": "system"
+      "category": "download"
     },
     {
       "slug": "firefox",
@@ -762,7 +762,7 @@
       "updated_at": "2026-03-08T08:03:59Z",
       "download_count": 7,
       "app_type": "native",
-      "category": "system"
+      "category": "network"
     },
     {
       "slug": "homarr",
@@ -888,7 +888,7 @@
       "updated_at": "2026-03-11T08:09:04Z",
       "download_count": 17,
       "app_type": "native",
-      "category": "media"
+      "category": "automation"
     },
     {
       "slug": "jellyfin",
@@ -930,7 +930,7 @@
       "updated_at": "2026-03-11T18:23:47Z",
       "download_count": 3,
       "app_type": "docker",
-      "category": "content"
+      "category": "media"
     },
     {
       "slug": "jellystat",
@@ -1056,7 +1056,7 @@
       "updated_at": "2026-03-11T18:24:02Z",
       "download_count": 14,
       "app_type": "docker",
-      "category": "content"
+      "category": "media"
     },
     {
       "slug": "librechat",
@@ -1077,7 +1077,7 @@
       "updated_at": "2026-03-11T18:24:13Z",
       "download_count": 21,
       "app_type": "docker",
-      "category": "system",
+      "category": "ai",
       "post_install_note": "安装后请在 Web 界面配置 OpenAI/Anthropic 等 API Key。"
     },
     {
@@ -1099,7 +1099,7 @@
       "updated_at": "2026-03-08T08:04:37Z",
       "download_count": 39,
       "app_type": "native",
-      "category": "content"
+      "category": "automation"
     },
     {
       "slug": "linkwarden",
@@ -1141,7 +1141,7 @@
       "updated_at": "2026-03-11T18:23:53Z",
       "download_count": 12,
       "app_type": "docker",
-      "category": "system"
+      "category": "ai"
     },
     {
       "slug": "loki",
@@ -1247,7 +1247,7 @@
       "updated_at": "2026-03-11T18:23:09Z",
       "download_count": 36,
       "app_type": "docker",
-      "category": "media"
+      "category": "automation"
     },
     {
       "slug": "melody-hub",
@@ -1331,7 +1331,7 @@
       "updated_at": "2026-03-08T08:04:19Z",
       "download_count": 14,
       "app_type": "native",
-      "category": "system"
+      "category": "network"
     },
     {
       "slug": "moviepilot",
@@ -1416,7 +1416,7 @@
       "updated_at": "2026-03-11T18:23:01Z",
       "download_count": 17,
       "app_type": "docker",
-      "category": "system",
+      "category": "network",
       "post_install_note": "NetBird 客户端容器使用 host 网络模式运行。"
     },
     {
@@ -1648,7 +1648,7 @@
       "updated_at": "2026-03-11T18:12:58Z",
       "download_count": 543,
       "app_type": "native",
-      "category": "system"
+      "category": "ai"
     },
     {
       "slug": "openlist",
@@ -1690,7 +1690,7 @@
       "updated_at": "2026-03-11T18:23:04Z",
       "download_count": 25,
       "app_type": "docker",
-      "category": "system"
+      "category": "content"
     },
     {
       "slug": "penpot",
@@ -1732,7 +1732,7 @@
       "updated_at": "2026-03-11T18:24:13Z",
       "download_count": 34,
       "app_type": "docker",
-      "category": "content"
+      "category": "media"
     },
     {
       "slug": "pihole",
@@ -1753,7 +1753,7 @@
       "updated_at": "2026-03-11T18:23:25Z",
       "download_count": 14,
       "app_type": "docker",
-      "category": "system"
+      "category": "network"
     },
     {
       "slug": "plex",
@@ -1816,7 +1816,7 @@
       "updated_at": "2026-03-03T13:39:09Z",
       "download_count": 14,
       "app_type": "native",
-      "category": "content"
+      "category": "automation"
     },
     {
       "slug": "puter",
@@ -1837,7 +1837,7 @@
       "updated_at": "2026-03-11T18:23:09Z",
       "download_count": 45,
       "app_type": "docker",
-      "category": "system"
+      "category": "content"
     },
     {
       "slug": "qbittorrent",
@@ -1879,7 +1879,7 @@
       "updated_at": "2026-03-03T13:39:10Z",
       "download_count": 38,
       "app_type": "native",
-      "category": "content"
+      "category": "automation"
     },
     {
       "slug": "rclone",
@@ -1942,7 +1942,7 @@
       "updated_at": "2026-03-03T13:39:26Z",
       "download_count": 59,
       "app_type": "native",
-      "category": "content"
+      "category": "automation"
     },
     {
       "slug": "rocketchat",
@@ -1963,7 +1963,7 @@
       "updated_at": "2026-03-11T18:22:56Z",
       "download_count": 6,
       "app_type": "docker",
-      "category": "content"
+      "category": "system"
     },
     {
       "slug": "sabnzbd",
@@ -2026,7 +2026,7 @@
       "updated_at": "2026-03-08T08:03:32Z",
       "download_count": 7,
       "app_type": "native",
-      "category": "system"
+      "category": "network"
     },
     {
       "slug": "sonarr",
@@ -2047,7 +2047,7 @@
       "updated_at": "2026-03-03T13:39:10Z",
       "download_count": 30,
       "app_type": "native",
-      "category": "content"
+      "category": "automation"
     },
     {
       "slug": "stirling-pdf",
@@ -2110,7 +2110,7 @@
       "updated_at": "2026-03-11T18:23:22Z",
       "download_count": 15,
       "app_type": "docker",
-      "category": "system"
+      "category": "media"
     },
     {
       "slug": "surveyking",
@@ -2173,7 +2173,7 @@
       "updated_at": "2026-03-11T18:23:04Z",
       "download_count": 10,
       "app_type": "docker",
-      "category": "system"
+      "category": "network"
     },
     {
       "slug": "tautulli",
@@ -2299,7 +2299,7 @@
       "updated_at": "2026-03-11T18:23:15Z",
       "download_count": 13,
       "app_type": "docker",
-      "category": "system"
+      "category": "network"
     },
     {
       "slug": "wikijs",
