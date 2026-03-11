@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-03-11T08:09:15Z",
+  "generated_at": "2026-03-11T08:09:24Z",
   "source": {
     "name": "conversun/fnos-apps",
     "url": "https://github.com/conversun/fnos-apps"
@@ -76,8 +76,8 @@
       "display_name": "ANI-RSS",
       "description": "动漫 RSS 自动追番、订阅、下载和刮削工具，支持自动识别季数集数和重命名。默认用户名admin，密码admin。",
       "version": "3.0.8",
-      "fpk_version": "3.0.8-r1",
-      "release_tag": "ani-rss/v3.0.8-r1",
+      "fpk_version": "3.0.8",
+      "release_tag": "ani-rss/v3.0.8",
       "service_port": 7789,
       "homepage_url": "https://github.com/wushuo894/ani-rss",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/ani-rss/fnos/ICON_256.PNG",
@@ -85,7 +85,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-11T06:51:59Z",
+      "updated_at": "2026-03-11T08:09:17Z",
       "download_count": 102,
       "app_type": "docker",
       "category": "content"
@@ -119,8 +119,8 @@
       "display_name": "Audiobookshelf",
       "description": "自托管的有声书和播客服务器，支持多用户管理、进度同步和丰富的元数据管理。",
       "version": "2.32.1",
-      "fpk_version": "2.32.1-r1",
-      "release_tag": "audiobookshelf/v2.32.1-r1",
+      "fpk_version": "2.32.1",
+      "release_tag": "audiobookshelf/v2.32.1",
       "service_port": 13378,
       "homepage_url": "https://www.audiobookshelf.org",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/audiobookshelf/fnos/ICON_256.PNG",
@@ -128,7 +128,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-11T06:52:24Z",
+      "updated_at": "2026-03-11T08:09:19Z",
       "download_count": 4,
       "app_type": "docker",
       "category": "content"
@@ -582,8 +582,8 @@
       "display_name": "Glances",
       "description": "系统监控工具，提供 Web UI 的实时系统资源监控。",
       "version": "latest-full",
-      "fpk_version": "latest-full-r1",
-      "release_tag": "glances/vlatest-full-r1",
+      "fpk_version": "latest-full",
+      "release_tag": "glances/vlatest-full",
       "service_port": 61208,
       "homepage_url": "https://nicolargo.github.io/glances/",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/glances/fnos/ICON_256.PNG",
@@ -591,7 +591,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-11T06:51:49Z",
+      "updated_at": "2026-03-11T08:09:15Z",
       "download_count": 24,
       "app_type": "docker",
       "category": "system"
@@ -855,8 +855,8 @@
       "display_name": "Jellystat",
       "description": "Jellyfin 媒体服务器的使用统计和监控面板。",
       "version": "1.1.8",
-      "fpk_version": "1.1.8-r1",
-      "release_tag": "jellystat/v1.1.8-r1",
+      "fpk_version": "1.1.8",
+      "release_tag": "jellystat/v1.1.8",
       "service_port": 3004,
       "homepage_url": "https://github.com/CyferShepard/Jellystat",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/jellystat/fnos/ICON_256.PNG",
@@ -864,7 +864,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-11T06:52:24Z",
+      "updated_at": "2026-03-11T08:09:18Z",
       "download_count": 4,
       "app_type": "docker",
       "category": "media"
@@ -1045,8 +1045,8 @@
       "display_name": "LocalAI",
       "description": "本地 AI 模型推理服务器，兼容 OpenAI API 接口。",
       "version": "3.12.1",
-      "fpk_version": "3.12.1-r1",
-      "release_tag": "localai/v3.12.1-r1",
+      "fpk_version": "3.12.1",
+      "release_tag": "localai/v3.12.1",
       "service_port": 8180,
       "homepage_url": "https://localai.io",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/localai/fnos/ICON_256.PNG",
@@ -1054,7 +1054,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-11T06:52:02Z",
+      "updated_at": "2026-03-11T08:09:15Z",
       "download_count": 12,
       "app_type": "docker",
       "category": "system"
@@ -1405,8 +1405,8 @@
       "display_name": "Nginx Proxy Manager",
       "description": "图形化反向代理管理工具，支持 SSL 证书自动申请和续期。",
       "version": "2.14.0",
-      "fpk_version": "2.14.0-r1",
-      "release_tag": "nginx-proxy-manager/v2.14.0-r1",
+      "fpk_version": "2.14.0",
+      "release_tag": "nginx-proxy-manager/v2.14.0",
       "service_port": 81,
       "homepage_url": "https://github.com/NginxProxyManager/nginx-proxy-manager",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/nginx-proxy-manager/fnos/ICON_256.PNG",
@@ -1414,7 +1414,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-11T06:52:40Z",
+      "updated_at": "2026-03-11T08:09:20Z",
       "download_count": 4,
       "app_type": "docker",
       "category": "system"
@@ -1888,8 +1888,8 @@
       "display_name": "Seerr",
       "description": "影视媒体请求管理工具，支持 Plex/Jellyfin/Emby，Overseerr 的社区分支。",
       "version": "3.1.0",
-      "fpk_version": "3.1.0-r1",
-      "release_tag": "seerr/v3.1.0-r1",
+      "fpk_version": "3.1.0",
+      "release_tag": "seerr/v3.1.0",
       "service_port": 5055,
       "homepage_url": "https://github.com/seerr-team/seerr",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/seerr/fnos/ICON_256.PNG",
@@ -1897,7 +1897,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-11T06:51:50Z",
+      "updated_at": "2026-03-11T08:09:19Z",
       "download_count": 6,
       "app_type": "docker",
       "category": "media"
@@ -1951,8 +1951,8 @@
       "display_name": "Stirling-PDF",
       "description": "功能强大的本地 PDF 工具箱，支持合并、拆分、OCR 等操作",
       "version": "2.7.0",
-      "fpk_version": "2.7.0-r1",
-      "release_tag": "stirling-pdf/v2.7.0-r1",
+      "fpk_version": "2.7.0",
+      "release_tag": "stirling-pdf/v2.7.0",
       "service_port": 18080,
       "homepage_url": "https://stirlingpdf.io",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/stirling-pdf/fnos/ICON_256.PNG",
@@ -1960,7 +1960,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-11T06:52:47Z",
+      "updated_at": "2026-03-11T08:09:22Z",
       "download_count": 64,
       "app_type": "docker",
       "category": "system"
@@ -2161,8 +2161,8 @@
       "display_name": "WG-Easy",
       "description": "WireGuard VPN 管理界面，提供简洁的 Web UI 管理 VPN 连接。",
       "version": "15.2.2",
-      "fpk_version": "15.2.2-r1",
-      "release_tag": "wg-easy/v15.2.2-r1",
+      "fpk_version": "15.2.2",
+      "release_tag": "wg-easy/v15.2.2",
       "service_port": 51821,
       "homepage_url": "https://github.com/wg-easy/wg-easy",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/wg-easy/fnos/ICON_256.PNG",
@@ -2170,7 +2170,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-11T06:51:54Z",
+      "updated_at": "2026-03-11T08:09:21Z",
       "download_count": 13,
       "app_type": "docker",
       "category": "system"
@@ -2182,8 +2182,8 @@
       "display_name": "Wiki.js",
       "description": "强大的自托管知识库/Wiki 系统，支持 Markdown 和多种编辑器",
       "version": "2.5.277",
-      "fpk_version": "2.5.277-r1",
-      "release_tag": "wikijs/v2.5.277-r1",
+      "fpk_version": "2.5.277",
+      "release_tag": "wikijs/v2.5.277",
       "service_port": 3100,
       "homepage_url": "https://js.wiki",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/wikijs/fnos/ICON_256.PNG",
@@ -2191,7 +2191,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-11T06:52:31Z",
+      "updated_at": "2026-03-11T08:09:19Z",
       "download_count": 13,
       "app_type": "docker",
       "category": "content"
