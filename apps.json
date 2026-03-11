@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-03-11T17:45:36Z",
+  "generated_at": "2026-03-11T17:45:45Z",
   "source": {
     "name": "conversun/fnos-apps",
     "url": "https://github.com/conversun/fnos-apps"
@@ -750,8 +750,8 @@
       "display_name": "Homarr",
       "description": "可视化应用仪表盘，深度集成 *arr 套件状态展示",
       "version": "1.55.0",
-      "fpk_version": "1.55.0-r1",
-      "release_tag": "homarr/v1.55.0-r1",
+      "fpk_version": "1.55.0",
+      "release_tag": "homarr/v1.55.0",
       "service_port": 7575,
       "homepage_url": "https://homarr.dev",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/homarr/fnos/ICON_256.PNG",
@@ -759,7 +759,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-11T17:37:23Z",
+      "updated_at": "2026-03-11T17:45:38Z",
       "download_count": 21,
       "app_type": "docker",
       "category": "system"
@@ -792,8 +792,8 @@
       "display_name": "Homepage",
       "description": "高度可定制的应用仪表盘，支持 100+ 服务集成",
       "version": "1.10.1",
-      "fpk_version": "1.10.1-r1",
-      "release_tag": "homepage/v1.10.1-r1",
+      "fpk_version": "1.10.1",
+      "release_tag": "homepage/v1.10.1",
       "service_port": 3003,
       "homepage_url": "https://gethomepage.dev",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/homepage/fnos/ICON_256.PNG",
@@ -801,7 +801,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-11T17:38:22Z",
+      "updated_at": "2026-03-11T17:45:39Z",
       "download_count": 7,
       "app_type": "docker",
       "category": "system"
@@ -812,9 +812,9 @@
       "file_prefix": "immich",
       "display_name": "Immich",
       "description": "自托管照片和视频备份方案,支持人脸识别和智能搜索。",
-      "version": "null",
-      "fpk_version": "null",
-      "release_tag": "immich/vnull",
+      "version": "2.5.6",
+      "fpk_version": "2.5.6-r1",
+      "release_tag": "immich/v2.5.6-r1",
       "service_port": 2283,
       "homepage_url": "https://github.com/immich-app/immich",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/immich/fnos/ICON_256.PNG",
@@ -822,7 +822,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-11T17:37:53Z",
+      "updated_at": "2026-03-11T17:45:38Z",
       "download_count": 65,
       "app_type": "docker",
       "category": "media"
@@ -897,8 +897,8 @@
       "display_name": "Jellyseerr",
       "description": "媒体请求管理工具，家庭成员可请求想看的影视并自动下载",
       "version": "2.7.3",
-      "fpk_version": "2.7.3-r1",
-      "release_tag": "jellyseerr/v2.7.3-r1",
+      "fpk_version": "2.7.3",
+      "release_tag": "jellyseerr/v2.7.3",
       "service_port": 5055,
       "homepage_url": "https://github.com/Fallenbagel/jellyseerr",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/jellyseerr/fnos/ICON_256.PNG",
@@ -906,7 +906,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-11T17:37:46Z",
+      "updated_at": "2026-03-11T17:45:36Z",
       "download_count": 3,
       "app_type": "docker",
       "category": "content"
@@ -1573,8 +1573,8 @@
       "display_name": "Ombi",
       "description": "媒体请求管理工具，用户可请求添加电影/电视剧到 Plex/Jellyfin。",
       "version": "4.53.4",
-      "fpk_version": "4.53.4-r1",
-      "release_tag": "ombi/v4.53.4-r1",
+      "fpk_version": "4.53.4",
+      "release_tag": "ombi/v4.53.4",
       "service_port": 3579,
       "homepage_url": "https://github.com/Ombi-app/Ombi",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/ombi/fnos/ICON_256.PNG",
@@ -1582,7 +1582,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-11T17:37:54Z",
+      "updated_at": "2026-03-11T17:45:41Z",
       "download_count": 2,
       "app_type": "docker",
       "category": "media"
