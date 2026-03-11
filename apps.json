@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-03-11T08:08:54Z",
+  "generated_at": "2026-03-11T08:09:03Z",
   "source": {
     "name": "conversun/fnos-apps",
     "url": "https://github.com/conversun/fnos-apps"
@@ -140,8 +140,8 @@
       "display_name": "AutoBangumi",
       "description": "基于 RSS 的全自动追番下载整理工具，支持 Mikan 等数据源，自动下载并重命名为 Plex/Jellyfin 兼容格式。",
       "version": "3.2.6",
-      "fpk_version": "3.2.6-r1",
-      "release_tag": "auto-bangumi/v3.2.6-r1",
+      "fpk_version": "3.2.6",
+      "release_tag": "auto-bangumi/v3.2.6",
       "service_port": 7892,
       "homepage_url": "https://github.com/EstrellaXD/Auto_Bangumi",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/auto-bangumi/fnos/ICON_256.PNG",
@@ -149,7 +149,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-11T06:52:22Z",
+      "updated_at": "2026-03-11T08:08:53Z",
       "download_count": 12,
       "app_type": "docker",
       "category": "content"
@@ -519,8 +519,8 @@
       "display_name": "FreshRSS",
       "description": "自托管 RSS 阅读器，支持 Google Reader API 和第三方客户端",
       "version": "1.28.1",
-      "fpk_version": "1.28.1-r1",
-      "release_tag": "freshrss/v1.28.1-r1",
+      "fpk_version": "1.28.1",
+      "release_tag": "freshrss/v1.28.1",
       "service_port": 8180,
       "homepage_url": "https://freshrss.org",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/freshrss/fnos/ICON_256.PNG",
@@ -528,7 +528,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-11T06:52:56Z",
+      "updated_at": "2026-03-11T08:09:00Z",
       "download_count": 6,
       "app_type": "docker",
       "category": "content"
