@@ -6,7 +6,7 @@
             "desc": "Immich",
             "icon": "images/{0}.png",
             "type": "url",
-            "port": "2283",
+            "port": "${wizard_port}",
             "protocol": "http",
             "url": "/",
             "allUsers": true

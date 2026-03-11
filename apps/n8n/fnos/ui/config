@@ -6,7 +6,7 @@
             "desc": "n8n",
             "icon": "images/{0}.png",
             "type": "url",
-            "port": "5678",
+            "port": "${wizard_port}",
             "protocol": "http",
             "url": "/",
             "allUsers": true

@@ -9,6 +9,7 @@ distributor_url = https://github.com/conversun/fnos-apps
 desktop_uidir   = ui
 desktop_applaunchname = sunshine.Application
 service_port    = 47990
+checkport       = false
 desc            = 游戏串流服务器，配合 Moonlight 客户端实现远程游戏。
 source          = thirdparty
 checksum        =

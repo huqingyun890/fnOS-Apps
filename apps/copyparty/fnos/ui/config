@@ -6,7 +6,7 @@
             "desc": "Lightweight file sharing",
             "icon": "images/{0}.png",
             "type": "url",
-            "port": "3923",
+            "port": "${wizard_port}",
             "protocol": "http",
             "url": "/",
             "allUsers": true

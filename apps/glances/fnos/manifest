@@ -9,6 +9,7 @@ distributor_url = https://github.com/conversun/fnos-apps
 desktop_uidir   = ui
 desktop_applaunchname = glances.Application
 service_port    = 61208
+checkport       = false
 desc            = 系统监控工具，提供 Web UI 的实时系统资源监控。
 source          = thirdparty
 checksum        =

@@ -9,6 +9,7 @@ distributor_url = https://github.com/conversun/fnos-apps
 desktop_uidir   = ui
 desktop_applaunchname = ollama.Application
 service_port    = 11434
+checkport       = false
 desc            = 本地大语言模型运行引擎，支持 Llama、Mistral、Gemma 等开源模型。
 source          = thirdparty
 checksum        = 

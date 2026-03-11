@@ -9,6 +9,7 @@ distributor_url = https://github.com/conversun/fnos-apps
 desktop_uidir   = ui
 desktop_applaunchname = jellystat.Application
 service_port    = 3004
+checkport       = false
 desc            = Jellyfin 媒体服务器的使用统计和监控面板。
 source          = thirdparty
 checksum        = 

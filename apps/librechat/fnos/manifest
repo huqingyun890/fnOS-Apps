@@ -9,6 +9,7 @@ distributor_url = https://github.com/conversun/fnos-apps
 desktop_uidir   = ui
 desktop_applaunchname = librechat.Application
 service_port    = 3080
+checkport       = false
 desc            = AI 聊天界面，支持 OpenAI、Anthropic 等多种 AI 模型。
 source          = thirdparty
 checksum        = 

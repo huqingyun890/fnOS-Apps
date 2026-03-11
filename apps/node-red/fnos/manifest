@@ -9,6 +9,7 @@ distributor_url = https://github.com/conversun/fnos-apps
 desktop_uidir   = ui
 desktop_applaunchname = node-red.Application
 service_port    = 1880
+checkport       = false
 desc            = 可视化流程编排工具，支持 IoT 和智能家居自动化。
 source          = thirdparty
 checksum        = 

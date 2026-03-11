@@ -6,7 +6,7 @@
             "desc": "NetBird",
             "icon": "images/{0}.png",
             "type": "url",
-            "port": "8820",
+            "port": "${wizard_port}",
             "protocol": "http",
             "url": "/",
             "allUsers": true

@@ -9,6 +9,7 @@ distributor_url = https://github.com/conversun/fnos-apps
 desktop_uidir   = ui
 desktop_applaunchname = homepage.Application
 service_port    = 3003
+checkport       = false
 desc            = 高度可定制的应用仪表盘，支持 100+ 服务集成
 source          = thirdparty
 checksum        = 

@@ -6,7 +6,7 @@
             "desc": "AdGuardHome DNS Ad Blocker",
             "icon": "images/{0}.png",
             "type": "url",
-            "port": "3080",
+            "port": "${wizard_port}",
             "protocol": "http",
             "url": "/",
             "allUsers": true

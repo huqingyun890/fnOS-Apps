@@ -9,6 +9,7 @@ distributor_url = https://github.com/conversun/fnos-apps
 desktop_uidir   = ui
 desktop_applaunchname = medusa.Application
 service_port    = 8081
+checkport       = false
 desc            = 电视剧自动化下载管理工具，支持自动搜索和下载新剧集。
 source          = thirdparty
 checksum        = 

@@ -6,7 +6,7 @@
             "desc": "Homarr",
             "icon": "images/{0}.png",
             "type": "url",
-            "port": "7575",
+            "port": "${wizard_port}",
             "protocol": "http",
             "url": "/",
             "allUsers": true

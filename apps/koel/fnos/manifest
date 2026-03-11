@@ -9,6 +9,7 @@ distributor_url = https://github.com/conversun/fnos-apps
 desktop_uidir   = ui
 desktop_applaunchname = koel.Application
 service_port    = 8060
+checkport       = false
 desc            = 个人音乐流媒体服务器,支持在线播放本地音乐库。默认账号 admin@koel.dev / KoelIsCool
 source          = thirdparty
 checksum        = 

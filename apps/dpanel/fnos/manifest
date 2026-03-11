@@ -9,6 +9,7 @@ distributor_url = https://github.com/conversun/fnos-apps
 desktop_uidir   = ui
 desktop_applaunchname = dpanel.Application
 service_port    = 8807
+checkport       = false
 desc            = 轻量级 Docker 可视化管理面板，支持容器管理和镜像操作。
 source          = thirdparty
 checksum        = 

@@ -9,6 +9,7 @@ distributor_url = https://github.com/conversun/fnos-apps
 desktop_uidir   = ui
 desktop_applaunchname = tautulli.Application
 service_port    = 8181
+checkport       = false
 desc            = Plex 使用统计和监控工具，追踪观看历史和服务器性能。
 source          = thirdparty
 checksum        = 

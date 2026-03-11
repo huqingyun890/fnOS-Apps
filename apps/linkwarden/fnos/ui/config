@@ -6,7 +6,7 @@
             "desc": "Linkwarden",
             "icon": "images/{0}.png",
             "type": "url",
-            "port": "3050",
+            "port": "${wizard_port}",
             "protocol": "http",
             "url": "/",
             "allUsers": true

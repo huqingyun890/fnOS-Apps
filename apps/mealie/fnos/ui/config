@@ -6,7 +6,7 @@
             "desc": "Mealie",
             "icon": "images/{0}.png",
             "type": "url",
-            "port": "9925",
+            "port": "${wizard_port}",
             "protocol": "http",
             "url": "/",
             "allUsers": true

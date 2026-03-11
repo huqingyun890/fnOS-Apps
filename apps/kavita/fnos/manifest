@@ -9,6 +9,7 @@ distributor_url = https://github.com/conversun/fnos-apps
 desktop_uidir   = ui
 desktop_applaunchname = kavita.Application
 service_port    = 5000
+checkport       = false
 desc            = 开源的漫画、轻小说和电子书阅读服务器
 source          = thirdparty
 checksum        = 

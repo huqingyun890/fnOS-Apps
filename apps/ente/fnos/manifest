@@ -9,6 +9,7 @@ distributor_url = https://github.com/conversun/fnos-apps
 desktop_uidir   = ui
 desktop_applaunchname = ente.Application
 service_port    = 8510
+checkport       = false
 desc            = 端到端加密照片备份和存储服务，Google Photos 的隐私替代方案。
 source          = thirdparty
 checksum        = 

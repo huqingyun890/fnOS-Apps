@@ -9,6 +9,7 @@ distributor_url = https://github.com/conversun/fnos-apps
 desktop_uidir   = ui
 desktop_applaunchname = linkwarden.Application
 service_port    = 3050
+checkport       = false
 desc            = 协作式书签管理器，支持网页存档和标签分类
 source          = thirdparty
 checksum        =

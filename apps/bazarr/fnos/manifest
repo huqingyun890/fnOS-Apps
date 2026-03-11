@@ -9,6 +9,7 @@ distributor_url = https://github.com/conversun/fnos-apps
 desktop_uidir   = ui
 desktop_applaunchname = bazarr.Application
 service_port    = 6767
+checkport       = false
 desc            = 字幕自动化管理工具，与 Sonarr/Radarr 集成自动下载匹配字幕
 source          = thirdparty
 checksum        = 

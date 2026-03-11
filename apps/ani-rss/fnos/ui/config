@@ -6,7 +6,7 @@
             "desc": "ANI-RSS",
             "icon": "images/{0}.png",
             "type": "url",
-            "port": "7789",
+            "port": "${wizard_port}",
             "protocol": "http",
             "url": "/",
             "allUsers": true

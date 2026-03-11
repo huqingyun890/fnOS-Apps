@@ -9,6 +9,7 @@ distributor_url = https://github.com/conversun/fnos-apps
 desktop_uidir   = ui
 desktop_applaunchname = paperless-ngx.Application
 service_port    = 8000
+checkport       = false
 desc            = 文档 OCR 扫描与归档管理系统，将纸质文件数字化并智能分类
 source          = thirdparty
 checksum        = 

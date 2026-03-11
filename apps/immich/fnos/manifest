@@ -9,6 +9,7 @@ distributor_url = https://github.com/conversun/fnos-apps
 desktop_uidir   = ui
 desktop_applaunchname = immich.Application
 service_port    = 2283
+checkport       = false
 desc            = 自托管照片和视频备份方案,支持人脸识别和智能搜索。
 source          = thirdparty
 checksum        = 

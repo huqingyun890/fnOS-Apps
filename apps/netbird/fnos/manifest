@@ -9,6 +9,7 @@ distributor_url = https://github.com/conversun/fnos-apps
 desktop_uidir   = ui
 desktop_applaunchname = netbird.Application
 service_port    = 8820
+checkport       = false
 desc            = 零信任 VPN 管理平台，提供简单的私有网络组建。
 source          = thirdparty
 checksum        = 

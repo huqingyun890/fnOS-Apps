@@ -9,6 +9,7 @@ distributor_url = https://github.com/conversun/fnos-apps
 desktop_uidir   = ui
 desktop_applaunchname = copyparty.Application
 service_port    = 3923
+checkport       = false
 desc            = 轻量级文件共享服务器，支持拖拽上传、WebDAV 和搜索。
 source          = thirdparty
 checksum        = 

@@ -9,6 +9,7 @@ distributor_url = https://github.com/conversun/fnos-apps
 desktop_uidir   = ui
 desktop_applaunchname = homarr.Application
 service_port    = 7575
+checkport       = false
 desc            = 可视化应用仪表盘，深度集成 *arr 套件状态展示
 source          = thirdparty
 checksum        = 

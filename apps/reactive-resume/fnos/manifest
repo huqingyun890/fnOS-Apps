@@ -9,6 +9,7 @@ distributor_url = https://github.com/conversun/fnos-apps
 desktop_uidir   = ui
 desktop_applaunchname = reactive-resume.Application
 service_port    = 3200
+checkport       = false
 desc            = 在线简历制作工具，支持多种模板和实时预览。
 source          = thirdparty
 checksum        = 

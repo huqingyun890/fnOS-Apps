@@ -9,6 +9,7 @@ distributor_url = https://github.com/conversun/fnos-apps
 desktop_uidir   = ui
 desktop_applaunchname = localai.Application
 service_port    = 8180
+checkport       = false
 desc            = 本地 AI 模型推理服务器，兼容 OpenAI API 接口。
 source          = thirdparty
 checksum        =

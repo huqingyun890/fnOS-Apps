@@ -6,7 +6,7 @@
             "desc": "Open WebUI",
             "icon": "images/{0}.png",
             "type": "url",
-            "port": "8080",
+            "port": "${wizard_port}",
             "protocol": "http",
             "url": "/",
             "allUsers": true

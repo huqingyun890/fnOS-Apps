@@ -9,6 +9,7 @@ distributor_url = https://github.com/conversun/fnos-apps
 desktop_uidir   = ui
 desktop_applaunchname = n8n.Application
 service_port    = 5678
+checkport       = false
 desc            = 可视化工作流自动化工具，支持连接数百种服务和 API。
 source          = thirdparty
 checksum        = 

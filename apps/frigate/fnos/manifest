@@ -9,6 +9,7 @@ distributor_url = https://github.com/conversun/fnos-apps
 desktop_uidir   = ui
 desktop_applaunchname = frigate.Application
 service_port    = 8971
+checkport       = false
 desc            = AI 视频监控系统，支持实时物体检测和录像管理。
 source          = thirdparty
 checksum        = 

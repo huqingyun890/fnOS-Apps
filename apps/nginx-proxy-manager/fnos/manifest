@@ -9,6 +9,7 @@ distributor_url = https://github.com/conversun/fnos-apps
 desktop_uidir   = ui
 desktop_applaunchname = nginx-proxy-manager.Application
 service_port    = 81
+checkport       = false
 desc            = 图形化反向代理管理工具，支持 SSL 证书自动申请和续期。
 source          = thirdparty
 checksum        = 

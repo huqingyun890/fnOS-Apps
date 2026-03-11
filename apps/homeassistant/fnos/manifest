@@ -9,6 +9,7 @@ distributor_url = https://github.com/conversun/fnos-apps
 desktop_uidir   = ui
 desktop_applaunchname = homeassistant.Application
 service_port    = 8123
+checkport       = false
 desc            = 开源智能家居中枢平台，支持数千种智能设备的自动化控制。
 source          = thirdparty
 checksum        = 

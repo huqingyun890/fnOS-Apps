@@ -9,6 +9,7 @@ distributor_url = https://github.com/conversun/fnos-apps
 desktop_uidir   = ui
 desktop_applaunchname = open-webui.Application
 service_port    = 8080
+checkport       = false
 desc            = AI 对话界面，支持连接 Ollama、OpenAI 等多种大语言模型。
 source          = thirdparty
 checksum        = 

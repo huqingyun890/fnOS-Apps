@@ -6,7 +6,7 @@
             "desc": "Usenet downloader",
             "icon": "images/{0}.png",
             "type": "url",
-            "port": "8780",
+            "port": "${wizard_port}",
             "protocol": "http",
             "url": "/",
             "allUsers": true

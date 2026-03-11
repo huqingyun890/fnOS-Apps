@@ -6,7 +6,7 @@
             "desc": "AI Video Surveillance",
             "icon": "images/{0}.png",
             "type": "url",
-            "port": "8971",
+            "port": "${wizard_port}",
             "protocol": "http",
             "url": "/",
             "allUsers": true

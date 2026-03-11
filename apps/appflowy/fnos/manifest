@@ -9,6 +9,7 @@ distributor_url = https://github.com/conversun/fnos-apps
 desktop_uidir   = ui
 desktop_applaunchname = appflowy.Application
 service_port    = 8500
+checkport       = false
 desc            = 开源 Notion 替代品，支持自托管的协作文档平台。
 source          = thirdparty
 checksum        = 

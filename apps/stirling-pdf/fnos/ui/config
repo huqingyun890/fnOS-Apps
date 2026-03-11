@@ -6,7 +6,7 @@
             "desc": "Stirling-PDF",
             "icon": "images/{0}.png",
             "type": "url",
-            "port": "18080",
+            "port": "${wizard_port}",
             "protocol": "http",
             "url": "/",
             "allUsers": true

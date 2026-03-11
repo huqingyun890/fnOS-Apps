@@ -9,6 +9,7 @@ distributor_url = https://github.com/conversun/fnos-apps
 desktop_uidir   = ui
 desktop_applaunchname = netdata.Application
 service_port    = 19999
+checkport       = false
 desc            = 实时系统监控面板，每秒采集 CPU/内存/磁盘/网络等指标。
 source          = thirdparty
 checksum        = 

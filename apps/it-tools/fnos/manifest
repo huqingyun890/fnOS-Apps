@@ -9,6 +9,7 @@ distributor_url = https://github.com/conversun/fnos-apps
 desktop_uidir   = ui
 desktop_applaunchname = it-tools.Application
 service_port    = 8280
+checkport       = false
 desc            = 开发者工具箱，提供 JSON/YAML 转换、编码解码等常用工具。
 source          = thirdparty
 checksum        = 

@@ -9,6 +9,7 @@ distributor_url = https://github.com/conversun/fnos-apps
 desktop_uidir   = ui
 desktop_applaunchname = stirling-pdf.Application
 service_port    = 18080
+checkport       = false
 desc            = 功能强大的本地 PDF 工具箱，支持合并、拆分、OCR 等操作
 source          = thirdparty
 checksum        = 

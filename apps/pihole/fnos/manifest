@@ -9,6 +9,7 @@ distributor_url = https://github.com/conversun/fnos-apps
 desktop_uidir   = ui
 desktop_applaunchname = pihole.Application
 service_port    = 8053
+checkport       = false
 desc            = 全网广告拦截工具，通过 DNS 过滤广告和追踪器。
 source          = thirdparty
 checksum        = 
