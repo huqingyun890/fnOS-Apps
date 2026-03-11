@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-03-11T17:44:52Z",
+  "generated_at": "2026-03-11T17:45:08Z",
   "source": {
     "name": "conversun/fnos-apps",
     "url": "https://github.com/conversun/fnos-apps"
@@ -76,8 +76,8 @@
       "display_name": "ANI-RSS",
       "description": "动漫 RSS 自动追番、订阅、下载和刮削工具，支持自动识别季数集数和重命名。默认用户名admin，密码admin。",
       "version": "3.0.8",
-      "fpk_version": "3.0.8-r1",
-      "release_tag": "ani-rss/v3.0.8-r1",
+      "fpk_version": "3.0.8",
+      "release_tag": "ani-rss/v3.0.8",
       "service_port": 7789,
       "homepage_url": "https://github.com/wushuo894/ani-rss",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/ani-rss/fnos/ICON_256.PNG",
@@ -85,7 +85,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-11T17:38:35Z",
+      "updated_at": "2026-03-11T17:44:55Z",
       "download_count": 102,
       "app_type": "docker",
       "category": "content"
@@ -1087,8 +1087,8 @@
       "display_name": "Linkwarden",
       "description": "协作式书签管理器，支持网页存档和标签分类",
       "version": "2.13.5",
-      "fpk_version": "2.13.5-r1",
-      "release_tag": "linkwarden/v2.13.5-r1",
+      "fpk_version": "2.13.5",
+      "release_tag": "linkwarden/v2.13.5",
       "service_port": 3050,
       "homepage_url": "https://linkwarden.app",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/linkwarden/fnos/ICON_256.PNG",
@@ -1096,7 +1096,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-11T17:38:20Z",
+      "updated_at": "2026-03-11T17:45:05Z",
       "download_count": 10,
       "app_type": "docker",
       "category": "content"
@@ -1108,8 +1108,8 @@
       "display_name": "LocalAI",
       "description": "本地 AI 模型推理服务器，兼容 OpenAI API 接口。",
       "version": "3.12.1",
-      "fpk_version": "3.12.1-r1",
-      "release_tag": "localai/v3.12.1-r1",
+      "fpk_version": "3.12.1",
+      "release_tag": "localai/v3.12.1",
       "service_port": 8180,
       "homepage_url": "https://localai.io",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/localai/fnos/ICON_256.PNG",
@@ -1117,7 +1117,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-11T17:37:25Z",
+      "updated_at": "2026-03-11T17:44:58Z",
       "download_count": 12,
       "app_type": "docker",
       "category": "system"
@@ -1171,8 +1171,8 @@
       "display_name": "Mattermost",
       "description": "企业级即时通讯平台，Slack 的开源替代方案。",
       "version": "11.4.2",
-      "fpk_version": "11.4.2-r1",
-      "release_tag": "mattermost/v11.4.2-r1",
+      "fpk_version": "11.4.2",
+      "release_tag": "mattermost/v11.4.2",
       "service_port": 8065,
       "homepage_url": "https://mattermost.com",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/mattermost/fnos/ICON_256.PNG",
@@ -1180,7 +1180,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-11T17:37:52Z",
+      "updated_at": "2026-03-11T17:45:01Z",
       "download_count": 9,
       "app_type": "docker",
       "category": "system",
@@ -1235,8 +1235,8 @@
       "display_name": "MelodyHub",
       "description": "Web 音乐搜索与下载服务，基于 lx-music 核心，支持多平台音源聚合搜索、服务器端下载和歌曲管理。",
       "version": "1.1.0",
-      "fpk_version": "1.1.0-r1",
-      "release_tag": "melody-hub/v1.1.0-r1",
+      "fpk_version": "1.1.0",
+      "release_tag": "melody-hub/v1.1.0",
       "service_port": 3006,
       "homepage_url": "https://github.com/gefl24/melody-hub",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/melody-hub/fnos/ICON_256.PNG",
@@ -1244,7 +1244,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-11T17:37:26Z",
+      "updated_at": "2026-03-11T17:45:03Z",
       "download_count": 156,
       "app_type": "docker",
       "category": "media"
@@ -1552,8 +1552,8 @@
       "display_name": "Ollama",
       "description": "本地大语言模型运行引擎，支持 Llama、Mistral、Gemma 等开源模型。",
       "version": "0.17.7",
-      "fpk_version": "0.17.7-r1",
-      "release_tag": "ollama/v0.17.7-r1",
+      "fpk_version": "0.17.7",
+      "release_tag": "ollama/v0.17.7",
       "service_port": 11434,
       "homepage_url": "https://github.com/ollama/ollama",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/ollama/fnos/ICON_256.PNG",
@@ -1561,7 +1561,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-11T17:38:08Z",
+      "updated_at": "2026-03-11T17:45:01Z",
       "download_count": 21,
       "app_type": "docker",
       "category": "ai"
@@ -1594,8 +1594,8 @@
       "display_name": "Open WebUI",
       "description": "AI 对话界面，支持连接 Ollama、OpenAI 等多种大语言模型。",
       "version": "0.8.10",
-      "fpk_version": "0.8.10-r1",
-      "release_tag": "open-webui/v0.8.10-r1",
+      "fpk_version": "0.8.10",
+      "release_tag": "open-webui/v0.8.10",
       "service_port": 8080,
       "homepage_url": "https://github.com/open-webui/open-webui",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/open-webui/fnos/ICON_256.PNG",
@@ -1603,7 +1603,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-11T17:37:22Z",
+      "updated_at": "2026-03-11T17:45:02Z",
       "download_count": 21,
       "app_type": "docker",
       "category": "ai"
@@ -1657,8 +1657,8 @@
       "display_name": "Paperless-ngx",
       "description": "文档 OCR 扫描与归档管理系统，将纸质文件数字化并智能分类",
       "version": "2.20.10",
-      "fpk_version": "2.20.10-r2",
-      "release_tag": "paperless-ngx/v2.20.10-r2",
+      "fpk_version": "2.20.10",
+      "release_tag": "paperless-ngx/v2.20.10",
       "service_port": 8000,
       "homepage_url": "https://docs.paperless-ngx.com",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/paperless-ngx/fnos/ICON_256.PNG",
@@ -1666,7 +1666,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-11T17:38:13Z",
+      "updated_at": "2026-03-11T17:44:53Z",
       "download_count": 25,
       "app_type": "docker",
       "category": "system"
@@ -1888,8 +1888,8 @@
       "display_name": "Reactive Resume",
       "description": "在线简历制作工具，支持多种模板和实时预览。",
       "version": "v5.0.11",
-      "fpk_version": "v5.0.11-r1",
-      "release_tag": "reactive-resume/vv5.0.11-r1",
+      "fpk_version": "v5.0.11",
+      "release_tag": "reactive-resume/vv5.0.11",
       "service_port": 3200,
       "homepage_url": "https://github.com/amruthpillai/reactive-resume",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/reactive-resume/fnos/ICON_256.PNG",
@@ -1897,7 +1897,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-11T17:37:22Z",
+      "updated_at": "2026-03-11T17:44:58Z",
       "download_count": 16,
       "app_type": "docker",
       "category": "content"
@@ -2161,8 +2161,8 @@
       "display_name": "Tautulli",
       "description": "Plex 使用统计和监控工具，追踪观看历史和服务器性能。",
       "version": "2.16.1",
-      "fpk_version": "2.16.1-r1",
-      "release_tag": "tautulli/v2.16.1-r1",
+      "fpk_version": "2.16.1",
+      "release_tag": "tautulli/v2.16.1",
       "service_port": 8181,
       "homepage_url": "https://tautulli.com",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/tautulli/fnos/ICON_256.PNG",
@@ -2170,7 +2170,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-11T17:37:47Z",
+      "updated_at": "2026-03-11T17:44:52Z",
       "download_count": 8,
       "app_type": "docker",
       "category": "media"
@@ -2308,8 +2308,8 @@
       "display_name": "Wizarr",
       "description": "Plex/Jellyfin 用户邀请管理工具，简化媒体库共享流程。",
       "version": "2026.2.1",
-      "fpk_version": "2026.2.1-r1",
-      "release_tag": "wizarr/v2026.2.1-r1",
+      "fpk_version": "2026.2.1",
+      "release_tag": "wizarr/v2026.2.1",
       "service_port": 5690,
       "homepage_url": "https://github.com/wizarrrr/wizarr",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/wizarr/fnos/ICON_256.PNG",
@@ -2317,7 +2317,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-11T17:38:36Z",
+      "updated_at": "2026-03-11T17:45:02Z",
       "download_count": 4,
       "app_type": "docker",
       "category": "media"
