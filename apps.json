@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-03-11T17:45:17Z",
+  "generated_at": "2026-03-11T17:45:26Z",
   "source": {
     "name": "conversun/fnos-apps",
     "url": "https://github.com/conversun/fnos-apps"
@@ -266,8 +266,8 @@
       "display_name": "ClamAV",
       "description": "开源杀毒引擎，提供文件扫描和病毒检测服务。",
       "version": "1.5.2",
-      "fpk_version": "1.5.2-r1",
-      "release_tag": "clamav/v1.5.2-r1",
+      "fpk_version": "1.5.2",
+      "release_tag": "clamav/v1.5.2",
       "service_port": 3310,
       "homepage_url": "https://github.com/Cisco-Talos/clamav",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/clamav/fnos/ICON_256.PNG",
@@ -275,7 +275,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-11T17:37:27Z",
+      "updated_at": "2026-03-11T17:45:22Z",
       "download_count": 13,
       "app_type": "docker",
       "category": "system"
@@ -582,8 +582,8 @@
       "display_name": "FreshRSS",
       "description": "自托管 RSS 阅读器，支持 Google Reader API 和第三方客户端",
       "version": "1.28.1",
-      "fpk_version": "1.28.1-r1",
-      "release_tag": "freshrss/v1.28.1-r1",
+      "fpk_version": "1.28.1",
+      "release_tag": "freshrss/v1.28.1",
       "service_port": 8180,
       "homepage_url": "https://freshrss.org",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/freshrss/fnos/ICON_256.PNG",
@@ -591,7 +591,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-11T17:38:37Z",
+      "updated_at": "2026-03-11T17:45:22Z",
       "download_count": 6,
       "app_type": "docker",
       "category": "content"
@@ -1804,8 +1804,8 @@
       "display_name": "Puter",
       "description": "开源云桌面环境,在浏览器中提供完整的桌面体验,支持文件管理和应用生态。",
       "version": "2.5.1",
-      "fpk_version": "2.5.1-r1",
-      "release_tag": "puter/v2.5.1-r1",
+      "fpk_version": "2.5.1",
+      "release_tag": "puter/v2.5.1",
       "service_port": 4100,
       "homepage_url": "https://puter.com",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/puter/fnos/ICON_256.PNG",
@@ -1813,7 +1813,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-11T17:37:28Z",
+      "updated_at": "2026-03-11T17:45:17Z",
       "download_count": 45,
       "app_type": "docker",
       "category": "system"
