@@ -8,12 +8,7 @@ services:
       - ${TRIM_PKGVAR}/data:/root/.ollama
     environment:
       - OLLAMA_HOST=0.0.0.0
+      - NVIDIA_VISIBLE_DEVICES=all
       - TZ=Asia/Shanghai
-    deploy:
-      resources:
-        reservations:
-          devices:
-            - driver: nvidia
-              count: all
-              capabilities: [gpu]
+    runtime: nvidia
     restart: unless-stopped
