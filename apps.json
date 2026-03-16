@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-03-16T01:17:42Z",
+  "generated_at": "2026-03-16T07:39:13Z",
   "source": {
     "name": "conversun/fnos-apps",
     "url": "https://github.com/conversun/fnos-apps"
@@ -276,7 +276,7 @@
         "arm"
       ],
       "updated_at": "2026-03-15T09:37:08Z",
-      "download_count": 72,
+      "download_count": 79,
       "app_type": "docker",
       "category": "browser"
     },
@@ -444,7 +444,7 @@
         "arm"
       ],
       "updated_at": "2026-03-15T09:37:05Z",
-      "download_count": 4,
+      "download_count": 5,
       "app_type": "native",
       "category": "network"
     },
@@ -486,7 +486,7 @@
         "arm"
       ],
       "updated_at": "2026-03-15T09:37:06Z",
-      "download_count": 26,
+      "download_count": 29,
       "app_type": "docker",
       "category": "media",
       "post_install_note": "首次启动会初始化 PostgreSQL 和 MinIO，请耐心等待。"
@@ -550,7 +550,7 @@
         "arm"
       ],
       "updated_at": "2026-03-15T09:36:39Z",
-      "download_count": 128,
+      "download_count": 142,
       "app_type": "docker",
       "category": "browser"
     },
@@ -561,8 +561,8 @@
       "display_name": "fnOS Apps",
       "description": "fnOS第三方应用中心，支持一键安装、更新和卸载来自conversun/fnos-apps的所有应用。",
       "version": "1.7.2",
-      "fpk_version": "1.7.2",
-      "release_tag": "fnos-apps-store/v1.7.2",
+      "fpk_version": "1.7.2-r1",
+      "release_tag": "fnos-apps-store/v1.7.2-r1",
       "service_port": 8011,
       "homepage_url": "https://github.com/conversun/fnos-store",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/fnos-apps-store/fnos/ICON_256.PNG",
@@ -570,7 +570,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-03-16T01:15:19Z",
+      "updated_at": "2026-03-16T07:38:59Z",
       "download_count": 1078,
       "app_type": "native",
       "category": "store"
@@ -1604,7 +1604,7 @@
         "arm"
       ],
       "updated_at": "2026-03-16T01:17:24Z",
-      "download_count": 0,
+      "download_count": 3,
       "app_type": "native",
       "category": "system"
     },
@@ -1625,7 +1625,7 @@
         "arm"
       ],
       "updated_at": "2026-03-15T09:36:02Z",
-      "download_count": 29,
+      "download_count": 35,
       "app_type": "docker",
       "category": "ai"
     },
@@ -1919,7 +1919,7 @@
         "arm"
       ],
       "updated_at": "2026-03-03T13:39:10Z",
-      "download_count": 54,
+      "download_count": 55,
       "app_type": "native",
       "category": "automation"
     },
