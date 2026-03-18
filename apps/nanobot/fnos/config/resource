@@ -1,0 +1,25 @@
+{
+    "port-config": {
+        "protocol-file": "Nanobot.sc"
+    },
+    "data-share": {
+        "shares": [
+            {
+                "name": "Nanobot",
+                "permission": {
+                    "rw": [
+                        "nanobot"
+                    ]
+                }
+            }
+        ]
+    },
+    "docker-project": {
+        "projects": [
+            {
+                "name": "nanobot",
+                "path": "docker"
+            }
+        ]
+    }
+}

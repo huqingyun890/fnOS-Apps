@@ -1,0 +1,15 @@
+#!/bin/sh
+APP_DIR="${TRIM_APPDEST}"
+APP_DATA_DIR=$1
+
+DATA_DIR="$APP_DATA_DIR/data"
+CONFIG_DIR="$APP_DATA_DIR/.picoclaw"
+mkdir -p "$DATA_DIR" "$CONFIG_DIR"
+
+export HOME="$APP_DATA_DIR"
+export PICOCLAW_GATEWAY_PORT="${TRIM_SERVICE_PORT}"
+export PICOCLAW_GATEWAY_HOST="0.0.0.0"
+export PICOCLAW_HOME="$CONFIG_DIR"
+
+cd "$APP_DIR" || exit 1
+exec ./picoclaw gateway
