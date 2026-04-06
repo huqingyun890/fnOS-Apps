@@ -8,6 +8,19 @@ VERSION="${VERSION:-latest}"
 WORK_DIR=$(mktemp -d)
 trap "rm -rf $WORK_DIR" EXIT
 
+case "$(uname -m)" in
+  x86_64|amd64)
+    ;;
+  aarch64|arm64)
+    echo "ClamAV Docker image is amd64-only; refusing ARM build" >&2
+    exit 1
+    ;;
+  *)
+    echo "Unsupported architecture for ClamAV build: $(uname -m)" >&2
+    exit 1
+    ;;
+esac
+
 mkdir -p "${WORK_DIR}/docker"
 cp "${SCRIPT_DIR}/../../../apps/clamav/fnos/docker/docker-compose.yaml" "${WORK_DIR}/docker/"
 sed "s/\${VERSION}/${VERSION}/g" "${WORK_DIR}/docker/docker-compose.yaml" > "${WORK_DIR}/docker/docker-compose.yaml.tmp"

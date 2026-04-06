@@ -14,7 +14,14 @@ APP_FPK_PREFIX="clamav"
 APP_HELP_VERSION_EXAMPLE="1.4"
 
 app_set_arch_vars() {
-    :
+    case "$ARCH" in
+        x86)
+            info "ClamAV Docker image is amd64-only; building x86 package"
+            ;;
+        arm)
+            error "ClamAV Docker image has no ARM64 support; x86 packages only"
+            ;;
+    esac
 }
 
 app_show_help_examples() {
