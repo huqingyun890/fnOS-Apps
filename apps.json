@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-04-08T08:24:16Z",
+  "generated_at": "2026-04-08T13:47:17Z",
   "source": {
     "name": "conversun/fnos-apps",
     "url": "https://github.com/conversun/fnos-apps"
@@ -339,7 +339,7 @@
         "arm"
       ],
       "updated_at": "2026-03-26T16:24:54Z",
-      "download_count": 45,
+      "download_count": 46,
       "app_type": "native",
       "category": "download"
     },
@@ -360,7 +360,7 @@
         "arm"
       ],
       "updated_at": "2026-04-04T08:08:32Z",
-      "download_count": 117,
+      "download_count": 124,
       "app_type": "docker",
       "category": "ai"
     },
@@ -381,7 +381,7 @@
         "arm"
       ],
       "updated_at": "2026-03-26T16:23:41Z",
-      "download_count": 24,
+      "download_count": 27,
       "app_type": "docker",
       "category": "download"
     },
@@ -402,7 +402,7 @@
         "arm"
       ],
       "updated_at": "2026-04-01T08:23:32Z",
-      "download_count": 97,
+      "download_count": 101,
       "app_type": "docker",
       "category": "ai"
     },
@@ -507,7 +507,7 @@
         "arm"
       ],
       "updated_at": "2026-03-26T16:25:32Z",
-      "download_count": 222,
+      "download_count": 223,
       "app_type": "native",
       "category": "media"
     },
@@ -592,7 +592,7 @@
         "arm"
       ],
       "updated_at": "2026-03-26T16:25:14Z",
-      "download_count": 305,
+      "download_count": 307,
       "app_type": "docker",
       "category": "browser"
     },
@@ -802,7 +802,7 @@
         "arm"
       ],
       "updated_at": "2026-03-26T16:24:45Z",
-      "download_count": 14,
+      "download_count": 15,
       "app_type": "native",
       "category": "network"
     },
@@ -844,7 +844,7 @@
         "arm"
       ],
       "updated_at": "2026-04-04T08:08:35Z",
-      "download_count": 144,
+      "download_count": 146,
       "app_type": "docker",
       "category": "system"
     },
@@ -886,7 +886,7 @@
         "arm"
       ],
       "updated_at": "2026-04-08T08:21:14Z",
-      "download_count": 151,
+      "download_count": 156,
       "app_type": "docker",
       "category": "media"
     },
@@ -949,7 +949,7 @@
         "arm"
       ],
       "updated_at": "2026-04-06T08:28:05Z",
-      "download_count": 272,
+      "download_count": 280,
       "app_type": "native",
       "category": "media"
     },
@@ -970,7 +970,7 @@
         "arm"
       ],
       "updated_at": "2026-03-26T16:25:00Z",
-      "download_count": 31,
+      "download_count": 33,
       "app_type": "docker",
       "category": "media"
     },
@@ -1139,7 +1139,7 @@
         "arm"
       ],
       "updated_at": "2026-03-26T16:24:06Z",
-      "download_count": 80,
+      "download_count": 82,
       "app_type": "native",
       "category": "automation"
     },
@@ -1329,7 +1329,7 @@
         "arm"
       ],
       "updated_at": "2026-04-08T08:21:17Z",
-      "download_count": 230,
+      "download_count": 239,
       "app_type": "docker",
       "category": "media"
     },
@@ -1392,7 +1392,7 @@
         "arm"
       ],
       "updated_at": "2026-03-26T16:22:59Z",
-      "download_count": 26,
+      "download_count": 27,
       "app_type": "native",
       "category": "network"
     },
@@ -1435,7 +1435,7 @@
         "arm"
       ],
       "updated_at": "2026-04-07T08:21:39Z",
-      "download_count": 63,
+      "download_count": 65,
       "app_type": "docker",
       "category": "system"
     },
@@ -1456,7 +1456,7 @@
         "arm"
       ],
       "updated_at": "2026-03-28T08:08:12Z",
-      "download_count": 175,
+      "download_count": 182,
       "app_type": "docker",
       "category": "ai"
     },
@@ -1667,7 +1667,7 @@
         "arm"
       ],
       "updated_at": "2026-03-26T16:25:33Z",
-      "download_count": 176,
+      "download_count": 178,
       "app_type": "native",
       "category": "system"
     },
@@ -1730,7 +1730,7 @@
         "arm"
       ],
       "updated_at": "2026-03-27T08:11:37Z",
-      "download_count": 169,
+      "download_count": 172,
       "app_type": "docker",
       "category": "ai"
     },
@@ -1888,8 +1888,8 @@
       "display_name": "Plex",
       "description": "Plex Media Server是一款强大的媒体服务器软件，可以管理和串流您的电影、电视剧、音乐和照片到任何设备。支持硬件转码、离线同步等高级功能。",
       "version": "1.43.0.10492",
-      "fpk_version": "1.43.0.10492-r5",
-      "release_tag": "plex/v1.43.0.10492-r5",
+      "fpk_version": "1.43.0.10492-r6",
+      "release_tag": "plex/v1.43.0.10492-r6",
       "service_port": 32400,
       "homepage_url": "https://www.plex.tv/media-server-downloads/",
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/plex/fnos/ICON_256.PNG",
@@ -1897,7 +1897,7 @@
         "x86",
         "arm"
       ],
-      "updated_at": "2026-04-06T16:49:17Z",
+      "updated_at": "2026-04-08T13:46:59Z",
       "download_count": 162,
       "app_type": "native",
       "category": "media"
@@ -1982,7 +1982,7 @@
         "arm"
       ],
       "updated_at": "2026-03-26T16:24:51Z",
-      "download_count": 192,
+      "download_count": 193,
       "app_type": "native",
       "category": "download"
     },
@@ -2003,7 +2003,7 @@
         "arm"
       ],
       "updated_at": "2026-03-26T16:24:36Z",
-      "download_count": 151,
+      "download_count": 153,
       "app_type": "native",
       "category": "automation"
     },
@@ -2087,7 +2087,7 @@
         "arm"
       ],
       "updated_at": "2026-04-08T08:21:13Z",
-      "download_count": 24,
+      "download_count": 27,
       "app_type": "docker",
       "category": "system"
     },
@@ -2129,7 +2129,7 @@
         "arm"
       ],
       "updated_at": "2026-03-26T16:24:29Z",
-      "download_count": 20,
+      "download_count": 22,
       "app_type": "docker",
       "category": "media"
     },
@@ -2297,7 +2297,7 @@
         "arm"
       ],
       "updated_at": "2026-03-28T08:08:16Z",
-      "download_count": 82,
+      "download_count": 89,
       "app_type": "docker",
       "category": "network"
     },
@@ -2423,7 +2423,7 @@
         "arm"
       ],
       "updated_at": "2026-03-26T16:25:11Z",
-      "download_count": 74,
+      "download_count": 75,
       "app_type": "docker",
       "category": "network"
     },
@@ -2507,7 +2507,7 @@
         "arm"
       ],
       "updated_at": "2026-04-08T08:21:32Z",
-      "download_count": 70,
+      "download_count": 76,
       "app_type": "native",
       "category": "ai"
     }
