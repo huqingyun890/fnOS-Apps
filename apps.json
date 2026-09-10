@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-10T12:45:00Z",
+  "generated_at": "2026-09-10T12:45:19Z",
   "source": {
     "name": "conversun/fnos-apps",
     "url": "https://github.com/conversun/fnos-apps"
@@ -1812,7 +1812,7 @@
         "arm"
       ],
       "updated_at": "2026-08-24T02:54:34Z",
-      "download_count": 470,
+      "download_count": 472,
       "app_type": "docker",
       "category": "content",
       "post_install_note": "请在 Web UI 中设置媒体库和下载目录，确保与下载工具（如 qBittorrent）使用的路径一致。"
